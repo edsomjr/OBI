@@ -4,7 +4,7 @@
 
 #### Fase 1
 
-- Cartas: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2014/f1/cartas/), [Beecrowd](https://olimpiada.ic.unicamp.br/pratique/ps/2014/f1/cartas/)
+- Cartas: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2014/f1/cartas/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2456)
 - Carteiro: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2014/f1/carteiro/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2448)
 
 #### Fase 2
