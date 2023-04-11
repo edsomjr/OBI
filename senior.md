@@ -87,6 +87,29 @@
 - Maximin: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2018/f3/maximin/)
 - Muro: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2018/f3/muro/)
 
+### 2019
+
+#### Fase 1
+
+- Chuva: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f1/chuva/)
+- A idade de Dona Mônica: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f1/idade/)
+- Calçada Imperial: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f1/imperial/)
+- Soma: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f1/soma/)
+
+#### Fase 2
+
+- Matriz super-legal: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f2/matriz/)
+- Robo marciano: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f2/robo/)
+- Supermercado: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f2/supermercado/)
+
+#### Fase 3
+
+- Computador: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f3/computador/)
+- Etiquetas: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f3/etiquetas/)
+- Mesa redonda: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f3/mesa/)
+- Metrô da Nlogônia: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f3/metro/)
+- Xadrez Aleatório: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f3/xadrez/)
+
 ### 2020
 
 #### Fase 1
@@ -142,27 +165,4 @@
 - Dona Minhoca: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2021/f3/minhoca/)
 - Ogro: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2021/f3/ogro/)
 - Teclado: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2021/f3/teclado/)
-
-### 2019
-
-#### Fase 1
-
-- Chuva: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f1/chuva/)
-- A idade de Dona Mônica: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f1/idade/)
-- Calçada Imperial: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f1/imperial/)
-- Soma: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f1/soma/)
-
-#### Fase 2
-
-- Matriz super-legal: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f2/matriz/)
-- Robo marciano: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f2/robo/)
-- Supermercado: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f2/supermercado/)
-
-#### Fase 3
-
-- Computador: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f3/computador/)
-- Etiquetas: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f3/etiquetas/)
-- Mesa redonda: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f3/mesa/)
-- Metrô da Nlogônia: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f3/metro/)
-- Xadrez Aleatório: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f3/xadrez/)
 
