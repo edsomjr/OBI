@@ -16,7 +16,7 @@
 #### Fase 1
 
 - Divisores: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2015/f1/divisores/) (solução: [cpp](solutions/NS_2015_F1_Divisores.cpp))
-- Lápis de Cor: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2015/f1/cor/)
+- Lápis de Cor: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2015/f1/cor/) (solução: [cpp](solutions/NS_2015_F1_Lapis_de_Cor.cpp))
 - Metrô: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2015/f1/metro/) (solução: [cpp](solutions/NS_2015_F1_Metro.cpp))
 
 #### Fase 2
