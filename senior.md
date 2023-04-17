@@ -5,7 +5,7 @@
 #### Fase 1
 
 - Cartas: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2014/f1/cartas/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2456) (solução: [py](solutions/NS_2014_F1_Cartas.py))
-- Carteiro: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2014/f1/carteiro/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2448) (solução: [cpp](solutions/NS_2014_F1_Carteiro.cpp))
+- Carteiro: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2014/f1/carteiro/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2448) (solução: [cpp](solutions/NS_2014_F1_Carteiro.cpp), [py](solutions/NS_2014_F1_Carteiro.py))
 
 #### Fase 2
 
