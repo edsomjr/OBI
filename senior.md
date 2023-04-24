@@ -32,7 +32,7 @@
 - Nova avenida: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f1/avenida/)
 - Chaves: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f1/chaves/), [NEPS](https://neps.academy/br/exercise/56) (solução: [cpp](solutions/NS_2016_F1_Chaves.cpp))
 - Direção: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f1/direcao/)
-- Lâmpadas do hotel: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f1/lampadas-hotel/), [NEPS](https://neps.academy/br/exercise/59)
+- Lâmpadas do hotel: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f1/lampadas-hotel/), [NEPS](https://neps.academy/br/exercise/59) (solução: [cpp](solutions/NS_2016_F1_Lampadas_do_hotel.cpp))
 
 #### Fase 2
 
