@@ -29,9 +29,9 @@
 
 #### Fase 1
 
-- Nova avenida: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f1/avenida/)
+- Nova avenida: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f1/avenida/) (solução: [cpp](solutions/NS_2016_F1_Nova_avenida.cpp))
 - Chaves: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f1/chaves/), [NEPS](https://neps.academy/br/exercise/56) (solução: [cpp](solutions/NS_2016_F1_Chaves.cpp))
-- Direção: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f1/direcao/)
+- Direção: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f1/direcao/) (solução: [cpp](solutions/NS_2016_F1_Direcao.cpp))
 - Lâmpadas do hotel: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f1/lampadas-hotel/), [NEPS](https://neps.academy/br/exercise/59) (solução: [cpp](solutions/NS_2016_F1_Lampadas_do_hotel.cpp))
 
 #### Fase 2
