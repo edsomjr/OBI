@@ -48,7 +48,7 @@
 
 - Botas Trocadas: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2017/f1/botas/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1245), [NEPS](https://neps.academy/br/exercise/19) (solução: [cpp](solutions/NS_2017_F1_Botas_Trocadas.cpp))
 - Game-10: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2017/f1/game10/), [NEPS](https://neps.academy/br/exercise/17) (solução: [cpp](solutions/NS_2017_F1_Game_10.cpp))
-- Palíndromo: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2017/f1/palindromo/)
+- Palíndromo: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2017/f1/palindromo/) (solução: [cpp](solutions/NS_2017_F1_Palindromo.cpp))
 
 #### Fase 2
 
