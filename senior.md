@@ -69,7 +69,7 @@
 
 #### Fase 1
 
-- Figurinhas da copa: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2018/f1/figurinhas/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2783), [NEPS](https://neps.academy/br/exercise/168)
+- Figurinhas da copa: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2018/f1/figurinhas/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2783), [NEPS](https://neps.academy/br/exercise/168) (solução: [cpp](solutions/NS_2018_F1_Figurinhas_da_Copa.cpp)
 - Ilhas: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2018/f1/ilhas/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2784), [NEPS](https://neps.academy/br/exercise/183)
 - Piso da escola: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2018/f1/piso/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2786), [NEPS](https://neps.academy/br/exercise/167) (solução: [cpp](solutions/NS_2018_F1_Piso_da_Escola.cpp)
 
