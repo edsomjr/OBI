@@ -91,10 +91,10 @@
 
 #### Fase 1
 
-- Chuva: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f1/chuva/)
-- A idade de Dona Mônica: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f1/idade/)
-- Calçada Imperial: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f1/imperial/)
-- Soma: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f1/soma/)
+- Chuva: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f1/chuva/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/3052), [NEPS](https://neps.academy/br/exercise/469)
+- A idade de Dona Mônica: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f1/idade/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/3047), [NEPS](https://neps.academy/br/exercise/463)
+- Calçada Imperial: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f1/imperial/), [NEPS](https://neps.academy/br/exercise/467)
+- Soma: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f1/soma/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/3051), [NEPS](https://neps.academy/br/exercise/468)
 
 #### Fase 2
 
