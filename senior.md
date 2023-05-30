@@ -119,7 +119,7 @@
 - Camisetas da Olimpíada: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/camisetas/), [NEPS](https://neps.academy/br/exercise/980)
 - Fissura Perigosa: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/fissura/), [NEPS](https://neps.academy/br/exercise/825)
 - Garamana: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/garamana/), [NEPS](https://neps.academy/br/exercise/1083)
-- Irmãos: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/irmaos/), [NEPS](https://neps.academy/br/exercise/978)
+- Irmãos: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/irmaos/), [NEPS](https://neps.academy/br/exercise/978) (solução: [cpp](solutions/NS_2020_F1_Irmaos.cpp))
 - Música para Todos: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/musica/), [NEPS](https://neps.academy/br/exercise/1084)
 - Paciente Zero: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/paciente/), [NEPS](https://neps.academy/br/exercise/830)
 
