@@ -115,7 +115,7 @@
 #### Fase 1
 
 - Acelerador de partículas: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/acelerador/), [NEPS](https://neps.academy/br/exercise/822)
-- Bingo!: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/bingo/), [NEPS](https://neps.academy/br/exercise/829)
+- Bingo!: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/bingo/), [NEPS](https://neps.academy/br/exercise/829) (solução: [cpp](solutions/NS_2020_F1_Bingo.cpp))
 - Camisetas da Olimpíada: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/camisetas/), [NEPS](https://neps.academy/br/exercise/980)
 - Fissura Perigosa: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/fissura/), [NEPS](https://neps.academy/br/exercise/825)
 - Garamana: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/garamana/), [NEPS](https://neps.academy/br/exercise/1083)
