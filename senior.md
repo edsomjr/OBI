@@ -21,8 +21,8 @@
 
 #### Fase 2
 
-- Catador: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2015/f2/catador/)
-- Número Napolitano: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2015/f2/napolitano/)
+- Catador: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2015/f2/catador/) (solução: [cpp](solutions/NS_2015_F2_Catador.cpp))
+- Número Napolitano: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2015/f2/napolitano/) (solução: [cpp](solutions/NS_2015_F2_Numero_Napolitano.cpp))
 - Usina: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2015/f2/usina/)
 
 ### 2016
