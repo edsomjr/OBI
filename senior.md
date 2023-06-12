@@ -166,3 +166,11 @@
 - Ogro: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2021/f3/ogro/)
 - Teclado: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2021/f3/teclado/)
 
+### 2023
+
+#### Fase 1
+
+- Contas a pagar: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2023/provas/ProvaOBI2023_f1ps.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1ps_contas/andre.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1ps_contas/conta_py3.py))
+- Estoque: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2023/provas/ProvaOBI2023_f1ps.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1ps_estoque/andre.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1ps_estoque/estoque_py3.py))
+- Subsequência: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2023/provas/ProvaOBI2023_f1ps.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1ps_subsequencia/andre.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1ps_subsequencia/subseq_py3.py))
+- Sr. Toupeira: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2023/provas/ProvaOBI2023_f1ps.pdf)a (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1ps_toupeira/andre.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1ps_toupeira/toupeira_py3.py))
