@@ -166,6 +166,16 @@
 - Ogro: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2021/f3/ogro/)
 - Teclado: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2021/f3/teclado/)
 
+
+### 2022
+
+#### Fase 1
+
+- Hotel: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f1ps.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1pj_hotel/hotel_cpp.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1pj_hotel/hotel_py.py))
+- Maior valor: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f1ps.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1p2_maior/maior_cpp.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1p2_maior/maior_py.py))
+- Quadrado Mágico: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f1ps.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1pj_magico/magico_cpp.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1pj_magico/magico_py.py))
+- Chuva: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f1ps.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1p2_chuva/andre.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1p2_chuva/chuva_py.py))
+
 ### 2023
 
 #### Fase 1
