@@ -242,6 +242,12 @@
 - Hotel: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f1pj.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1pj_hotel/hotel_cpp.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1pj_hotel/hotel_py.py))
 - Quadrado Mágico: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f1pj.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1pj_magico/magico_cpp.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1pj_magico/magico_py.py))
 
+#### Fase 2
+
+- Troféu: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f2pj.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2pj_trofeu/trofeu_cpp.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2pj_trofeu/trofeu_py3.py))
+- Caminho: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f2pj.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2pj_caminho/caminho_cpp.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2pj_caminho/ranido_py3.py))
+- Pirâmide: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f2pj.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2pj_piramide/piramide_cpp2.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2pj_piramide/ranido_py3.py))
+
 
 ### 2023
 

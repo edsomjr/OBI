@@ -176,6 +176,14 @@
 - Quadrado Mágico: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f1ps.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1pj_magico/magico_cpp.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1pj_magico/magico_py.py))
 - Chuva: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f1ps.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1p2_chuva/andre.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1p2_chuva/chuva_py.py))
 
+#### Fase 2
+
+- Tanque de combustível: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f2ps.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2p1_tanque/tanque_cpp.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2p1_tanque/tanque_py.py))
+- Pirâmide: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f2ps.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2pj_piramide/yan_cpp.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2pj_piramide/piramide.java))
+- Subcadeias: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f2ps.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2p2_subcadeias/yan_cpp.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2p2_subcadeias/yan_py3.py))
+- Viagem: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f2ps.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2p2_viagem/yan_cpp.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2p2_viagem/viagem_cpp.cpp))
+
+
 ### 2023
 
 #### Fase 1
