@@ -1,4 +1,4 @@
-// OBI 2023 - Fase 1 - Nível Sênior: Contas a pagar (https://olimpiada.ic.unicamp.br/static/extras/obi2023/provas/ProvaOBI2023_f1ps.pdf)
+// OBI 2023 - Fase 1 - Nível 2: Contas a pagar (https://olimpiada.ic.unicamp.br/static/extras/obi2023/provas/ProvaOBI2023_f1p2.pdf)
 #include <bits/stdc++.h>
 
 using namespace std;
