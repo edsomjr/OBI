@@ -36,8 +36,8 @@
 
 #### Fase 2
 
-- Arco e flecha: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/arco-online/)
-- Ciclovias: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/ciclovias/)
+- Arco e flecha: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/arco-online/), [NEPS](https://neps.academy/br/exercise/6) (solução: [cpp](solutions/NS_2016_F2_Arco_e_Flecha.cpp))
+- Ciclovias: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/ciclovias/), [NEPS](https://neps.academy/br/exercise/12)
 - Jardim de Infância: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/jardim/)
 - Pô, que mão: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/pokemon/)
 - Times: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/times/)
