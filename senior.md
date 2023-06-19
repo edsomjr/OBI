@@ -39,7 +39,7 @@
 - Arco e flecha: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/arco-online/), [NEPS](https://neps.academy/br/exercise/6) (solução: [cpp](solutions/NS_2016_F2_Arco_e_Flecha.cpp))
 - Ciclovias: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/ciclovias/), [NEPS](https://neps.academy/br/exercise/12)
 - Jardim de Infância: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/jardim/), [NEPS](https://neps.academy/br/exercise/9) (solução: [cpp](solutions/NS_2016_F2_Jardim_de_Infancia.cpp))
-- Pô, que mão: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/pokemon/), [NEPS](https://neps.academy/br/exercise/8)
+- Pô, que mão: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/pokemon/), [NEPS](https://neps.academy/br/exercise/8) (solução: [cpp](solutions/NS_2016_F2_Po_que_mao.cpp))
 - Times: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/times/) (solução: [cpp](solutions/NS_2016_F2_Times.cpp))
 
 ### 2017
