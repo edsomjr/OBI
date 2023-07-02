@@ -5,31 +5,6 @@
 using namespace std;
 using ii = pair<int, int>;
 
-/*int pieces(double x, int N, const vector<int>& hs)
-{
-    auto L = 0, res = 0;
-
-    while (L < N)
-    {
-        if (hs[L] <= x)
-        {
-            ++L;
-            continue;
-        }
-
-        auto R = L + 1;
-
-        while (R < N and hs[R] > x)
-            ++R;
-
-        ++res;
-        L = R;
-    }
-
-    return res + 1;
-}
-*/
-
 int solve(int N, const vector<int>& hs)
 {
     // Compressão dos adjacentes iguais e adição de bordas
