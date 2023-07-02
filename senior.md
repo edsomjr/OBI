@@ -52,10 +52,10 @@
 
 #### Fase 2
 
-- Frete: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2017/f2/frete/)
-- Mapa: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2017/f2/mapa/)
-- Cortando o Papel: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2017/f2/papel/)
-- Dario e Xerxes: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2017/f2/xerxes/)
+- Cortando o Papel: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2017/f2/papel/), [NEPS](https://neps.academy/br/exercise/27)
+- Dario e Xerxes: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2017/f2/xerxes/), [NEPS](https://neps.academy/br/exercise/25) (solução: [cpp](solutions/NS_2017_F2_Dario_e_Xerxes.cpp))
+- Frete: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2017/f2/frete/), [NEPS](https://neps.academy/br/exercise/28)
+- Mapa: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2017/f2/mapa/), [NEPS](https://neps.academy/br/exercise/26)
 
 #### Fase 3
 
