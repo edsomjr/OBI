@@ -75,9 +75,9 @@
 
 #### Fase 2
 
-- Elevador: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2018/f2/elevador/)
-- Fuga: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2018/f2/fuga/)
-- Sequência: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2018/f2/sequencia/)
+- Elevador: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2018/f2/elevador/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2835), [NEPS](https://neps.academy/br/exercise/209)
+- Fuga: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2018/f2/fuga/), [NEPS](https://neps.academy/br/exercise/208), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2834)
+- Sequência: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2018/f2/sequencia/), [NEPS](https://neps.academy/br/exercise/211), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2837)
 
 #### Fase 3
 
