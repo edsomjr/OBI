@@ -1,81 +1,52 @@
 // OBI 2016 - Nível Sênior - Fase 2: Arco e flecha (https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/arco-online/)
 #include <bits/stdc++.h>
+#include <ext/pb_ds/assoc_container.hpp>
+#include <ext/pb_ds/tree_policy.hpp>
 
 using namespace std;
+using namespace __gnu_pbds;
+
 using ll = long long;
+using ii = pair<ll, ll>;
 
-struct Point { ll x, y; };
+// Ref: https://opensource.apple.com/source/llvmgcc42/llvmgcc42-2336.9/libstdc++-v3/testsuite/ext/pb_ds/example/tree_order_statistics.cc
+// Ref: https://github.com/gcc-mirror/gcc/blob/master/libstdc%2B%2B-v3/testsuite/ext/pb_ds/example/tree_order_statistics.cc
+// Ref: https://codeforces.com/blog/entry/11080
 
-class BITree {
-private:
-    vector<ll> ts;
-    int N;
+// A red-black tree table storing ints and their order
+// statistics. Note that since the tree uses
+// tree_order_statistics_node_update as its update policy, then it
+// includes its methods by_order and order_of_key.
+typedef
+tree<
+  ll,
+  null_type,
+  less_equal<ll>,
+  rb_tree_tag,
+  // This policy updates nodes' metadata for order statistics.
+  tree_order_statistics_node_update>
+set_t;
 
-public:
-    BITree(int n) : ts(n + 1, 0), N(n) {}
 
-    ll RSQ(int i, int j)
-    {
-        return RSQ(j) - RSQ(i - 1);
-    }
-
-private:
-    int LSB(int n) { return n & (-n); }
-
-    ll RSQ(int i)
-    {
-        ll sum = 0;
-
-        while (i >= 1)
-        {
-            sum += ts[i];
-            i -= LSB(i);
-        }
-
-        return sum;
-    }
-
-public:
-    void add(int i, ll x)
-    {
-        if (i == 0)
-            return;
-
-        while (i <= N)
-        {
-            ts[i] += x;
-            i += LSB(i);
-        }
-    }
-};
-
-ll solve(int N, const vector<Point>& ps)
+auto solve(int, const vector<ii>& ps)
 {
-    vector<ll> dist(N);
-    set<ll> ds;
+    vector<int> ans;
+    auto prev = 0;
 
-    for (int i = 0; i < N; ++i)
+    set_t dist;
+
+    for (auto [x, y] : ps)
     {
-        dist[i] = ps[i].x * ps[i].x + ps[i].y * ps[i].y;
-        ds.insert(dist[i]);
+        x += prev;
+        y += prev;
+
+        auto d = x * x + y*y;
+        ans.emplace_back(dist.order_of_key(d + 1));
+        
+        dist.insert(d);
+        prev = ans.back();
     }
  
-    map<ll, int> idx;
-    int j = 0;
-
-    for (auto d : ds)
-        idx[d] = ++j;
- 
-    BITree tree(N);
-    ll ans = 0;
-
-    for (int i = 0; i < N; ++i)
-    {
-        ans += tree.RSQ(0, idx[dist[i]]);
-
-        tree.add(idx[dist[i]], 1);
-    }
-
     return ans;
 }
 
@@ -86,14 +57,15 @@ int main()
     int N;
     cin >> N;
 
-    vector<Point> ps(N);
+    vector<ii> ps(N);
 
     for (int i = 0; i < N; ++i)
-        cin >> ps[i].x >> ps[i].y;
+        cin >> ps[i].first >> ps[i].second;
 
     auto ans = solve(N, ps);
 
-    cout << ans << '\n';
+    for (auto x : ans)
+        cout << x << '\n';
 
     return 0;
 }
