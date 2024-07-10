@@ -1,6 +1,6 @@
 # OBI
 
-Links para os problemas das edições passadas da OBI. O [regulamento](https://olimpiada.ic.unicamp.br/info/regulamento/) prevê quatro níveis na Modalidade
+Links e soluções para os problemas das edições passadas da OBI. O [regulamento](https://olimpiada.ic.unicamp.br/info/regulamento/) prevê quatro níveis na Modalidade
 Programação:
 
 - [Nível Júnior](jr.md): alunos de qualquer ano do Ensino Fundamental.
