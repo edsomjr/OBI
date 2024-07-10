@@ -263,3 +263,17 @@
 - Prêmio: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2023/provas/ProvaOBI2023_f1pj.pdf), [NEPS](https://neps.academy/br/exercise/2313) (solução: [c](solutions/JR_2023_F1_Premio.c), [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1pj_premio/andre.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1pj_premio/premio_py3.py))
 - Epidemia: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2023/provas/ProvaOBI2023_f1pj.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1pj_epidemia/andre.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1pj_epidemia/epidemia_py3.py))
 - Chinelos: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2023/provas/ProvaOBI2023_f1pj.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1pj_chinelos/andre.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1pj_chinelos/chinelos_py3.py))
+
+### 2024
+
+#### [Fase 1](provas/ProvaOBI2024_f1pj.pdf)
+
+1. [Ogro](https://neps.academy/br/exercise/2710)
+    - Soluções: [C](solutions/JR_2024_F1_Ogro.c), [C++](solutions/JR_2024_F1_Ogro.cpp)
+    - [Casos de teste](test_set/2024f1pj_ogro.zip)
+2. [Concurso](https://neps.academy/br/exercise/2711)
+    - Soluções: [C](solutions/JR_2024_F1_Concurso.c), [C++](solutions/JR_2024_F1_Concurso.cpp)
+    - [Casos de teste](test_set/2024f1pj_concurso.zip)
+3. [Bactérias](https://neps.academy/br/exercise/2712)
+    - [Casos de teste](test_set/2024f1pj_bacterias.zip)
+
