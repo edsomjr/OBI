@@ -200,3 +200,19 @@
 - Estoque: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2023/provas/ProvaOBI2023_f1ps.pdf) (solução: [cpp](solutions/NS_2023_F1_Estoque.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1ps_estoque/estoque_py3.py))
 - Subsequência: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2023/provas/ProvaOBI2023_f1ps.pdf) (solução: [cpp](solutions/NS_2023_F1_Subsequencia.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1ps_subsequencia/subseq_py3.py))
 - Sr. Toupeira: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2023/provas/ProvaOBI2023_f1ps.pdf) (solução: [cpp](solutions/NS_2023_F1_Sr_Toupeira.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1ps_toupeira/toupeira_py3.py))
+
+
+### 2024
+
+#### [Fase 1](provas/ProvaOBI2024_f1ps.pdf)
+
+1. [Ogro](https://neps.academy/br/exercise/2710)
+    - Soluções: [C](solutions/NS_2024_F1_Ogro.c), [C++](solutions/NS_2024_F1_Ogro.cpp)
+    - [Casos de teste](test_set/2024f1ps_ogro.zip)
+2. [Concurso](https://neps.academy/br/exercise/2711)
+    - Soluções: [C](solutions/NS_2024_F1_Concurso.c), [C++](solutions/NS_2024_F1_Concurso.cpp)
+    - [Casos de teste](test_set/2024f1ps_concurso.zip)
+3. [Placas de Carro](https://neps.academy/br/exercise/2715)
+    - [Casos de teste](test_set/2024f1ps_placas.zip)
+4. [Jogo da Vida](https://neps.academy/br/exercise/2714)
+    - [Casos de teste](test_set/2024f1ps_jogo.zip)
