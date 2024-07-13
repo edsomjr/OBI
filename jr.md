@@ -272,7 +272,7 @@
     - Soluções: [C](solutions/JR_2024_F1_Ogro.c), [C++](solutions/JR_2024_F1_Ogro.cpp), [Python](solutions/JR_2024_F1_Ogro.py)
     - [Casos de teste](test_set/2024f1pj_ogro.zip)
 2. [Concurso](https://neps.academy/br/exercise/2711)
-    - Soluções: [C](solutions/JR_2024_F1_Concurso.c), [C++](solutions/JR_2024_F1_Concurso.cpp)
+    - Soluções: [C](solutions/JR_2024_F1_Concurso.c), [C++](solutions/JR_2024_F1_Concurso.cpp), [Python](solutions/JR_2024_F1_Concurso.py)
     - [Casos de teste](test_set/2024f1pj_concurso.zip)
 3. [Bactérias](https://neps.academy/br/exercise/2712)
     - [Casos de teste](test_set/2024f1pj_bacterias.zip)

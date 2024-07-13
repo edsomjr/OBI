@@ -210,7 +210,7 @@
     - Soluções: [C](solutions/NS_2024_F1_Ogro.c), [C++](solutions/NS_2024_F1_Ogro.cpp), [Python](solutions/NS_2024_F1_Ogro.py)
     - [Casos de teste](test_set/2024f1ps_ogro.zip)
 2. [Concurso](https://neps.academy/br/exercise/2711)
-    - Soluções: [C](solutions/NS_2024_F1_Concurso.c), [C++](solutions/NS_2024_F1_Concurso.cpp)
+    - Soluções: [C](solutions/NS_2024_F1_Concurso.c), [C++](solutions/NS_2024_F1_Concurso.cpp), [Python](solutions/NS_2024_F1_Concurso.py)
     - [Casos de teste](test_set/2024f1ps_concurso.zip)
 3. [Placas de Carro](https://neps.academy/br/exercise/2715)
     - [Casos de teste](test_set/2024f1ps_placas.zip)
