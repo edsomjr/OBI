@@ -61,11 +61,11 @@
 
 #### [Fase 1](provas/OBI2012_f1pj.pdf)
 
-- [Campeonato]: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2012/f1/campeonato/)
+- [Campeonato](https://neps.academy/br/exercise/514)
     - [Casos de teste](test_set/2012f1pj_campeonato.zip)
-- Busca na Internet: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2012/f1/busca/)
+- [Busca na Internet](https://neps.academy/br/exercise/515)
     - [Casos de teste](test_set/2012f1pj_busca.zip)
-- Desafio do Maior Número: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2012/f1/maior/)
+- [Desafio do Maior Número](https://neps.academy/br/exercise/323)
     - [Casos de teste](test_set/2012f1pj_maior.zip)
 
 #### Fase 2
