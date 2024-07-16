@@ -59,11 +59,14 @@
 
 ### 2012
 
-#### Fase 1
+#### [Fase 1](provas/OBI2012_f1pj.pdf)
 
+- [Campeonato]: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2012/f1/campeonato/)
+    - [Casos de teste](test_set/2012f1pj_campeonato.zip)
 - Busca na Internet: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2012/f1/busca/)
-- Campeonato: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2012/f1/campeonato/)
+    - [Casos de teste](test_set/2012f1pj_busca.zip)
 - Desafio do Maior Número: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2012/f1/maior/)
+    - [Casos de teste](test_set/2012f1pj_maior.zip)
 
 #### Fase 2
 
