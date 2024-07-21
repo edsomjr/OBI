@@ -280,4 +280,3 @@
 3. [Bactérias](https://neps.academy/br/exercise/2712)
     - Soluções: [C](solutions/JR_2024_F1_Bacterias.c), [C++](solutions/JR_2024_F1_Bacterias.cpp), [Python](solutions/JR_2024_F1_Bacterias.py)
     - [Casos de teste](test_set/2024f1pj_bacterias.zip)
-
