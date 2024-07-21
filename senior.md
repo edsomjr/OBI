@@ -213,7 +213,7 @@
     - Soluções: [C](solutions/NS_2024_F1_Concurso.c), [C++](solutions/NS_2024_F1_Concurso.cpp), [Python](solutions/NS_2024_F1_Concurso.py)
     - [Casos de teste](test_set/2024f1ps_concurso.zip)
 3. [Placas de Carro](https://neps.academy/br/exercise/2715)
-    - [Casos de teste](test_set/2024f1ps_placas.zip)
     - Soluções: [C](solutions/NS_2024_F1_Placas_de_Carro.c), [C++](solutions/NS_2024_F1_Placas_de_Carro.cpp), [Python](solutions/NS_2024_F1_Placas_de_Carro.py)
+    - [Casos de teste](test_set/2024f1ps_placas.zip)
 4. [Jogo da Vida](https://neps.academy/br/exercise/2714)
     - [Casos de teste](test_set/2024f1ps_jogo.zip)
