@@ -4,11 +4,11 @@
 
 #### [Fase 1](provas/ProvaOBI2008_f1pj.pdf)
 
-- OBI: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2008/f1/obi/), [NEPS](https://neps.academy/br/exercise/221)
+- [OBI](https://neps.academy/br/exercise/221)
     - [Casos de teste](test_set/2024f1pj_obi.zip)
 - [Telefone](https://neps.academy/br/exercise/592)
     - [Casos de teste](test_set/2024f1pj_telefone2.zip)
-- Vestibular: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2008/f1/vestib/), [NEPS](https://neps.academy/br/exercise/160)
+- [Vestibular](https://neps.academy/br/exercise/160)
     - [Casos de teste](test_set/2024f1pj_vestib.zip)
 
 #### Fase 2
