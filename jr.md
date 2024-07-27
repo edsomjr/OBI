@@ -2,10 +2,10 @@
 
 ### 2008
 
-#### Fase 1
+#### [Fase 1](provas/ProvaOBI2008_f1pj.pdf)
 
 - OBI: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2008/f1/obi/), [NEPS](https://neps.academy/br/exercise/221)
-- Telefone: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2008/f1/telefone2/), [NEPS](https://neps.academy/br/exercise/592)
+- [Telefone](https://neps.academy/br/exercise/592)
 - Vestibular: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2008/f1/vestib/), [NEPS](https://neps.academy/br/exercise/160)
 
 #### Fase 2
