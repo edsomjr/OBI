@@ -7,6 +7,7 @@
 - [OBI](https://neps.academy/br/exercise/221)
     - [Casos de teste](test_set/2024f1pj_obi.zip)
 - [Telefone](https://neps.academy/br/exercise/592)
+    - Soluções: [C](solutions/JR_2008_F1_Telefone.c), [C++](solutions/JR_2008_F1_Telefone.cpp), [Python](solutions/JR_2008_F1_Telefone.py)
     - [Casos de teste](test_set/2024f1pj_telefone2.zip)
 - [Vestibular](https://neps.academy/br/exercise/160)
     - [Casos de teste](test_set/2024f1pj_vestib.zip)
