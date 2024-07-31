@@ -265,11 +265,14 @@
 
 ### 2023
 
-#### Fase 1
+#### [Fase 1](provas/ProvaOBI2023_f1pj.pdf)
 
-- Prêmio: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2023/provas/ProvaOBI2023_f1pj.pdf), [NEPS](https://neps.academy/br/exercise/2313) (solução: [c](solutions/JR_2023_F1_Premio.c), [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1pj_premio/andre.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1pj_premio/premio_py3.py))
-- Epidemia: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2023/provas/ProvaOBI2023_f1pj.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1pj_epidemia/andre.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1pj_epidemia/epidemia_py3.py))
-- Chinelos: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2023/provas/ProvaOBI2023_f1pj.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1pj_chinelos/andre.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1pj_chinelos/chinelos_py3.py))
+1. [Prêmio](https://neps.academy/br/exercise/2313)
+    - [Casos de teste](test_set/2023f1pj_premio.zip)
+2. [Epidemia](https://neps.academy/br/exercise/2316)
+    - [Casos de teste](test_set/2023f1pj_epidemia.zip)
+3. [Chinelos](https://neps.academy/br/exercise/2317)
+    - [Casos de teste](test_set/2023f1pj_chinelos.zip)
 
 ### 2024
 
