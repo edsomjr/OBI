@@ -1,4 +1,4 @@
-// OBI 2023 - Nível Júnior - Fase 1: Prêmio (https://neps.academy/br/exercise/2313)
+// NEPS 2313: Prêmio (https://neps.academy/br/exercise/2313)
 #include <stdio.h>
 
 int main()
@@ -19,3 +19,4 @@ int main()
 
     return 0;
 }
+

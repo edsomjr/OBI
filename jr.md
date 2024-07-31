@@ -268,6 +268,7 @@
 #### [Fase 1](provas/ProvaOBI2023_f1pj.pdf)
 
 1. [Prêmio](https://neps.academy/br/exercise/2313)
+    - Soluções: [C](solutions/JR_2023_F1_Premio.c), [C++](solutions/JR_2023_F1_Premio.cpp), [Python](solutions/JR_2023_F1_Premio.py)
     - [Casos de teste](test_set/2023f1pj_premio.zip)
 2. [Epidemia](https://neps.academy/br/exercise/2316)
     - [Casos de teste](test_set/2023f1pj_epidemia.zip)
