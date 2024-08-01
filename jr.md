@@ -271,6 +271,7 @@
     - Soluções: [C](solutions/JR_2023_F1_Premio.c), [C++](solutions/JR_2023_F1_Premio.cpp), [Python](solutions/JR_2023_F1_Premio.py)
     - [Casos de teste](test_set/2023f1pj_premio.zip)
 2. [Epidemia](https://neps.academy/br/exercise/2316)
+    - Soluções: [C](solutions/JR_2023_F1_Epidemia.c), [C++](solutions/JR_2023_F1_Epidemia.cpp), [Python](solutions/JR_2023_F1_Epidemia.py)
     - [Casos de teste](test_set/2023f1pj_epidemia.zip)
 3. [Chinelos](https://neps.academy/br/exercise/2317)
     - [Casos de teste](test_set/2023f1pj_chinelos.zip)
