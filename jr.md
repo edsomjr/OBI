@@ -274,6 +274,7 @@
     - Soluções: [C](solutions/JR_2023_F1_Epidemia.c), [C++](solutions/JR_2023_F1_Epidemia.cpp), [Python](solutions/JR_2023_F1_Epidemia.py)
     - [Casos de teste](test_set/2023f1pj_epidemia.zip)
 3. [Chinelos](https://neps.academy/br/exercise/2317)
+    - Soluções: [C](solutions/JR_2023_F1_Chinelos.c), [C++](solutions/JR_2023_F1_Chinelos.cpp), [Python](solutions/JR_2023_F1_Chinelos.py)
     - [Casos de teste](test_set/2023f1pj_chinelos.zip)
 
 ### 2024
