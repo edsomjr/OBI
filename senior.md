@@ -194,12 +194,20 @@
 
 ### 2023
 
-#### Fase 1
+#### [Fase 1](provas/ProvaOBI2023_f1ps.pdf)
 
-- Contas a pagar: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2023/provas/ProvaOBI2023_f1ps.pdf) (solução: [cpp](solutions/NS_2023_F1_Contas_a_pagar.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1ps_contas/conta_py3.py))
-- Estoque: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2023/provas/ProvaOBI2023_f1ps.pdf) (solução: [cpp](solutions/NS_2023_F1_Estoque.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1ps_estoque/estoque_py3.py))
-- Subsequência: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2023/provas/ProvaOBI2023_f1ps.pdf) (solução: [cpp](solutions/NS_2023_F1_Subsequencia.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1ps_subsequencia/subseq_py3.py))
-- Sr. Toupeira: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2023/provas/ProvaOBI2023_f1ps.pdf) (solução: [cpp](solutions/NS_2023_F1_Sr_Toupeira.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1ps_toupeira/toupeira_py3.py))
+1. [Contas a pagar](https://neps.academy/br/exercise/2321)
+    - Soluções: [cpp](solutions/NS_2023_F1_Contas_a_pagar.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1ps_contas/conta_py3.py))
+    - [Casos de teste](test_set/2023f1ps_contas.zip)
+2. [Estoque](https://neps.academy/br/exercise/2319)
+    - Soluções: [cpp](solutions/NS_2023_F1_Estoque.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1ps_estoque/estoque_py3.py))
+    - [Casos de teste](test_set/2023f1ps_estoque.zip)
+3. [Subsequência](https://neps.academy/br/exercise/2320)
+    - Soluções: [cpp](solutions/NS_2023_F1_Subsequencia.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1ps_subsequencia/subseq_py3.py))
+    - [Casos de teste](test_set/2023f1ps_subsequencia.zip)
+4. [Toupeira](https://neps.academy/br/exercise/2323)
+    - Soluções: [cpp](solutions/NS_2023_F1_Sr_Toupeira.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1ps_toupeira/toupeira_py3.py))
+    - [Casos de teste](test_set/2023f1ps_toupeira.zip)
 
 
 ### 2024
