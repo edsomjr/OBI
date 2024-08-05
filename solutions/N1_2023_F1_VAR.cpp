@@ -1,4 +1,4 @@
-// OBI 2023 - Fase 1 - Nível 1: VAR (https://olimpiada.ic.unicamp.br/static/extras/obi2023/provas/ProvaOBI2023_f1p1.pdf)
+// NEPS 2318: VAR (https://neps.academy/br/exercise/2318)
 #include <bits/stdc++.h>
 
 using namespace std;
