@@ -1,4 +1,4 @@
-// OBI 2023 - Fase 1 - Nível Sênior: Estoque (https://olimpiada.ic.unicamp.br/static/extras/obi2023/provas/ProvaOBI2023_f1ps.pdf)
+// NEPS 2319: Estoque (https://neps.academy/br/exercise/2319)
 #include <bits/stdc++.h>
 
 using namespace std;
