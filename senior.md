@@ -203,7 +203,7 @@
     - Soluções: [C](solutions/NS_2023_F1_Estoque.c), [C++](solutions/NS_2023_F1_Estoque.cpp), [Python](solutions/NS_2023_F1_Estoque.py)
     - [Casos de teste](test_set/2023f1ps_estoque.zip)
 3. [Subsequência](https://neps.academy/br/exercise/2320)
-    - Soluções: [cpp](solutions/NS_2023_F1_Subsequencia.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1ps_subsequencia/subseq_py3.py))
+    - Soluções: [C](solutions/NS_2023_F1_Subsequencia.c), [C++](solutions/NS_2023_F1_Subsequencia.cpp), [Python](solutions/NS_2023_F1_Subsequencia.py)
     - [Casos de teste](test_set/2023f1ps_subsequencia.zip)
 4. [Toupeira](https://neps.academy/br/exercise/2323)
     - Soluções: [cpp](solutions/NS_2023_F1_Sr_Toupeira.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1ps_toupeira/toupeira_py3.py))

@@ -1,4 +1,4 @@
-// OBI 2023 - Fase 1 - Nível Sênior: Subsequência (https://olimpiada.ic.unicamp.br/static/extras/obi2023/provas/ProvaOBI2023_f1ps.pdf)
+// NEPS: Subsequência (https://neps.academy/br/exercise/2320)
 #include <bits/stdc++.h>
 
 using namespace std;
