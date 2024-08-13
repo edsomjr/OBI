@@ -197,7 +197,7 @@
 #### [Fase 1](provas/ProvaOBI2023_f1ps.pdf)
 
 1. [Contas a pagar](https://neps.academy/br/exercise/2321)
-    - Soluções: [cpp](solutions/NS_2023_F1_Contas_a_pagar.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2023/solucoes/2023f1ps_contas/conta_py3.py))
+    - Soluções: [C](solutions/NS_2023_F1_Contas_a_pagar.c), [C++](solutions/NS_2023_F1_Contas_a_pagar.cpp), [Python](solutions/NS_2023_F1_Contas_a_pagar.cpp)
     - [Casos de teste](test_set/2023f1ps_contas.zip)
 2. [Estoque](https://neps.academy/br/exercise/2319)
     - Soluções: [C](solutions/NS_2023_F1_Estoque.c), [C++](solutions/NS_2023_F1_Estoque.cpp), [Python](solutions/NS_2023_F1_Estoque.py)
