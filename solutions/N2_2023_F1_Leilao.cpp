@@ -1,4 +1,4 @@
-// OBI 2023 - Fase 1 - Nível 2: Leilão (https://olimpiada.ic.unicamp.br/static/extras/obi2023/provas/ProvaOBI2023_f1p2.pdf)
+// NEPS 2322 - Leilão (https://neps.academy/br/exercise/2322)
 #include <bits/stdc++.h>
 
 using namespace std;
