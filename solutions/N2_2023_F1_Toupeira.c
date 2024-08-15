@@ -1,4 +1,4 @@
-// OBI 2023 - Nível 2 - Fase 1: Sr. Toupeira (https://neps.academy/br/exercise/2323)
+// NEPS 2323 - Toupeira (https://neps.academy/br/exercise/2323)
 #include <stdio.h>
 
 #define MAX 1010
