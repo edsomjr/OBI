@@ -280,6 +280,7 @@
 #### [Fase 2 - Turno A](provas/ProvaOBI2023_f2pj.pdf)
 
 1. [Pizza da OBI](https://neps.academy/br/exercise/2434)
+    - Soluções: [C](solutions/JR_2023_F2_Pizza.c), [C++](solutions/JR_2023_F2_Pizza.cpp), [Python](solutions/JR_2023_F2_Pizza.py)
     - [Casos de teste](test_set/2023f2pj_pizza.zip)
 2. [Código de Compressão](https://neps.academy/br/exercise/2435)
     - [Casos de teste](test_set/2023f2pj_codigo.zip)
