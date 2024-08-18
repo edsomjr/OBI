@@ -3,6 +3,7 @@
 ### [2023](provas/ProvaOBI2023_cfpj.pdf)
 
 1. Conversa dos Pinguins
+    - Soluções: [C](solutions/CF_JR_2023_F1_Conversa_dos_Pinguins.c), [C++](solutions/CF_JR_2023_F1_Conversa_dos_Pinguins.cpp), [Python](solutions/CF_JR_2023_F1_Conversa_dos_Pinguins.py)
     - [Casos de teste](test_set/2023cfpj_pinguins.zip)
 2. Estante de Livros
     - [Casos de teste](test_set/2023cfpj_estante.zip)
