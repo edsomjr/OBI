@@ -9,6 +9,7 @@
     - Soluções: [C](solutions/CF_JR_2023_F1_Estante_de_Livros.c), [C++](solutions/CF_JR_2023_F1_Estante_de_Livros.cpp), [Python](solutions/CF_JR_2023_F1_Estante_de_Livros.py)
     - [Casos de teste](test_set/2023cfpj_estante.zip)
 3. Suco Radioativo
+    - Soluções: [C](solutions/CF_JR_2023_F1_Suco.c), [C++](solutions/CF_JR_2023_F1_Suco.cpp), [Python](solutions/CF_JR_2023_F1_Suco.py)
     - [Casos de teste](test_set/2023cfpj_suco.zip)
 4. A Grande Casquinha
     - [Casos de teste](test_set/2023cfpj_casquinha.zip)
