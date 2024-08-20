@@ -232,6 +232,7 @@
 1. Cubo Preto
     - [Casos de teste](test_set/2024f2p2_cubo.zip)
 2. Alfabeto Alienígena
+    - Soluções: [C](solutions/NS_2024_F2_Alfabeto.c), [C++](solutions/NS_2024_F2_Alfabeto.cpp), [Python](solutions/NS_2024_F2_Alfabeto.py)
     - [Casos de teste](test_set/2024f2pj_alfabeto.zip)
 3. Dança de Formatura
     - [Casos de teste](test_set/2024f2p1_danca.zip)

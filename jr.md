@@ -306,6 +306,7 @@
 1. Avenida
     - [Casos de teste](test_set/2024f2pj_avenida.zip)
 2. Alfabeto Alienígena
+    - Soluções: [C](solutions/JR_2024_F2_Alfabeto.c), [C++](solutions/JR_2024_F2_Alfabeto.cpp), [Python](solutions/JR_2024_F2_Alfabeto.py)
     - [Casos de teste](test_set/2024f2pj_alfabeto.zip)
 3. Atletismo
     - [Casos de teste](test_set/2024f2pj_atletismo.zip)
