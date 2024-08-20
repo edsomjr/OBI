@@ -230,7 +230,10 @@
 #### [Fase 2](provas/ProvaOBI2024_f2ps.pdf)
 
 1. Cubo Preto
+    - [Casos de teste](test_set/2024f2p2_cubo.zip)
 2. Alfabeto Alienígena
+    - [Casos de teste](test_set/2024f2pj_alfabeto.zip)
 3. Dança de Formatura
+    - [Casos de teste](test_set/2024f2p1_danca.zip)
 4. Jogo do Poder
-
+    - [Casos de teste](test_set/2024f2p2_poder.zip)
