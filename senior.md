@@ -226,3 +226,11 @@
 4. [Jogo da Vida](https://neps.academy/br/exercise/2714)
     - Soluções: [C](solutions/NS_2024_F1_Jogo_da_Vida.c), [C++](solutions/NS_2024_F1_Jogo_da_Vida.cpp), [Python](solutions/NS_2024_F1_Jogo_da_Vida.py)
     - [Casos de teste](test_set/2024f1ps_jogo.zip)
+
+#### [Fase 2](provas/ProvaOBI2024_f2ps.pdf)
+
+1. Cubo Preto
+2. Alfabeto Alienígena
+3. Dança de Formatura
+4. Jogo do Poder
+
