@@ -235,6 +235,7 @@
     - Soluções: [C](solutions/NS_2024_F2_Alfabeto.c), [C++](solutions/NS_2024_F2_Alfabeto.cpp), [Python](solutions/NS_2024_F2_Alfabeto.py)
     - [Casos de teste](test_set/2024f2pj_alfabeto.zip)
 3. Dança de Formatura
+    - Soluções: [C](solutions/NS_2024_F2_Danca.c), [C++](solutions/NS_2024_F2_Danca.cpp), [Python](solutions/NS_2024_F2_Danca.py)
     - [Casos de teste](test_set/2024f2p1_danca.zip)
 4. Jogo do Poder
     - [Casos de teste](test_set/2024f2p2_poder.zip)
