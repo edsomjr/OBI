@@ -230,6 +230,7 @@
 #### [Fase 2](provas/ProvaOBI2024_f2ps.pdf)
 
 1. Cubo Preto
+    - Soluções: [C](solutions/NS_2024_F2_Cubo.c), [C++](solutions/NS_2024_F2_Cubo.cpp), [Python](solutions/NS_2024_F2_Cubo.py)
     - [Casos de teste](test_set/2024f2p2_cubo.zip)
 2. Alfabeto Alienígena
     - Soluções: [C](solutions/NS_2024_F2_Alfabeto.c), [C++](solutions/NS_2024_F2_Alfabeto.cpp), [Python](solutions/NS_2024_F2_Alfabeto.py)
