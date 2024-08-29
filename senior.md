@@ -229,14 +229,14 @@
 
 #### [Fase 2](provas/ProvaOBI2024_f2ps.pdf)
 
-1. Cubo Preto
+1. [Cubo Preto](https://neps.academy/br/exercise/2797)
     - Soluções: [C](solutions/NS_2024_F2_Cubo.c), [C++](solutions/NS_2024_F2_Cubo.cpp), [Python](solutions/NS_2024_F2_Cubo.py)
     - [Casos de teste](test_set/2024f2p2_cubo.zip)
-2. Alfabeto Alienígena
+2. [Alfabeto Alienígena](https://neps.academy/br/exercise/2792)
     - Soluções: [C](solutions/NS_2024_F2_Alfabeto.c), [C++](solutions/NS_2024_F2_Alfabeto.cpp), [Python](solutions/NS_2024_F2_Alfabeto.py)
     - [Casos de teste](test_set/2024f2pj_alfabeto.zip)
-3. Dança de Formatura
+3. [Dança de Formatura](https://neps.academy/br/exercise/2794)
     - Soluções: [C](solutions/NS_2024_F2_Danca.c), [C++](solutions/NS_2024_F2_Danca.cpp), [Python](solutions/NS_2024_F2_Danca.py)
     - [Casos de teste](test_set/2024f2p1_danca.zip)
-4. Jogo do Poder
+4. [Jogo do Poder](https://neps.academy/br/exercise/2798)
     - [Casos de teste](test_set/2024f2p2_poder.zip)
