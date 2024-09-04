@@ -12,4 +12,5 @@
     - Soluções: [C](solutions/CF_JR_2023_F1_Suco.c), [C++](solutions/CF_JR_2023_F1_Suco.cpp), [Python](solutions/CF_JR_2023_F1_Suco.py)
     - [Casos de teste](test_set/2023cfpj_suco.zip)
 4. A Grande Casquinha
+    - Soluções: [C](solutions/CF_JR_2023_F1_Casquinha.c), [C++](solutions/CF_JR_2023_F1_Casquinha.cpp), [Python](solutions/CF_JR_2023_F1_Casquinha.py)
     - [Casos de teste](test_set/2023cfpj_casquinha.zip)
