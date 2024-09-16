@@ -12,3 +12,11 @@
     - [Casos de teste](test_set/2023cfp1_machine-learning.zip)
 4. Garrafões
     - [Casos de teste](test_set/2023cfp1_garrafoes.zip)
+
+
+### [2024](provas/ProvaOBI2024_cfp1.pdf)
+
+1. Bibi e a árvore
+2. Fefe e o jogo dos monstrinhos
+3. Mistura de Poções
+4. Fábrica de Tesouras

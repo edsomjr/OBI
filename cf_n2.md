@@ -11,3 +11,12 @@
     - [Casos de teste](test_set/2023cfp1_garrafoes.zip)
 4. Viagem
     - [Casos de teste](test_set/2023cfp2_viagem.zip)
+
+
+### [2024](provas/ProvaOBI2024_cfp2.pdf)
+
+1. Bibi e a árvore
+2. Mistura de Poções
+3. Tabuleiro
+4. Christina e os bombons
+5. Estradas em Nlogônia
