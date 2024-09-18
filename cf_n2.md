@@ -16,6 +16,7 @@
 ### [2024](provas/ProvaOBI2024_cfp2.pdf)
 
 1. Bibi e a árvore
+    - Soluções: [C](solutions/CF_N2_2024_F1_Bibi.c), [C++](solutions/CF_N2_2024_F1_Bibi.cpp), [Python](solutions/CF_N2_2024_F1_Bibi.py)
     - [Casos de teste](test_set/2024cfp1_bibi.zip)
 2. Mistura de Poções
     - [Casos de teste](test_set/2024cfp1_mistura.zip)
