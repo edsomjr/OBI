@@ -22,6 +22,7 @@
     - Soluções: [C](solutions/CF_N2_2024_F1_Mistura.c), [C++](solutions/CF_N2_2024_F1_Mistura.cpp), [Python](solutions/CF_N2_2024_F1_Mistura.py)
     - [Casos de teste](test_set/2024cfp1_mistura.zip)
 3. Tabuleiro
+    - Soluções: [C](solutions/CF_N2_2024_F1_Tabuleiro.c), [C++](solutions/CF_N2_2024_F1_Tabuleiro.cpp), [Python](solutions/CF_N2_2024_F1_Tabuleiro.py)
     - [Casos de teste](test_set/2024cfp2_tabuleiro.zip)
 4. Christina e os bombons
     - [Casos de teste](test_set/2024cfp2_bombons.zip)
