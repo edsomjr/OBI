@@ -17,6 +17,10 @@
 ### [2024](provas/ProvaOBI2024_cfp1.pdf)
 
 1. Bibi e a árvore
+    - [Casos de teste](test_set/2024cfp1_bibi.zip)
 2. Fefe e o jogo dos monstrinhos
+    - [Casos de teste](test_set/2024cfp1_monstrinhos.zip)
 3. Mistura de Poções
+    - [Casos de teste](test_set/2024cfp1_mistura.zip)
 4. Fábrica de Tesouras
+    - [Casos de teste](test_set/2024cfpj_tesoura.zip)

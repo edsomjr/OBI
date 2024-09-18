@@ -18,6 +18,10 @@
 ### [2024](provas/ProvaOBI2024_cfpj.pdf)
 
 1. Altura da árvore
+    - [Casos de teste](test_set/2024cfpj_altura.zip)
 2. Vale-presente
+    - [Casos de teste](test_set/2024cfpj_vale.zip)
 3. Aventura na floresta mágica
+    - [Casos de teste](test_set/2024cfpj_aventura.zip)
 4. Fábrica de tesouras
+    - [Casos de teste](test_set/2024cfpj_tesoura.zip)

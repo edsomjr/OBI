@@ -16,7 +16,12 @@
 ### [2024](provas/ProvaOBI2024_cfp2.pdf)
 
 1. Bibi e a árvore
+    - [Casos de teste](test_set/2024cfp1_bibi.zip)
 2. Mistura de Poções
+    - [Casos de teste](test_set/2024cfp1_mistura.zip)
 3. Tabuleiro
+    - [Casos de teste](test_set/2024cfp2_tabuleiro.zip)
 4. Christina e os bombons
+    - [Casos de teste](test_set/2024cfp2_bombons.zip)
 5. Estradas em Nlogônia
+    - [Casos de teste](test_set/2024cfp2_estradas.zip)
