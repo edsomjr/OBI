@@ -22,6 +22,7 @@
 2. Fefe e o jogo dos monstrinhos
     - [Casos de teste](test_set/2024cfp1_monstrinhos.zip)
 3. Mistura de Poções
+    - Soluções: [C](solutions/CF_N1_2024_F1_Mistura.c), [C++](solutions/CF_N1_2024_F1_Mistura.cpp), [Python](solutions/CF_N1_2024_F1_Mistura.py)
     - [Casos de teste](test_set/2024cfp1_mistura.zip)
 4. Fábrica de Tesouras
     - [Casos de teste](test_set/2024cfpj_tesoura.zip)
