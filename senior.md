@@ -240,3 +240,17 @@
     - [Casos de teste](test_set/2024f2p1_danca.zip)
 4. [Jogo do Poder](https://neps.academy/br/exercise/2798)
     - [Casos de teste](test_set/2024f2p2_poder.zip)
+
+#### [Fase 3](provas/ProvaOBI2024_f3ps.pdf)
+
+1. Brigadeiros
+    - [Casos de teste](test_set/2024f3p2_brigadeiros.zip)
+2. Construtora
+    - [Casos de teste](test_set/2024f3p2_construtora.zip)
+3. Retas
+    - [Casos de teste](test_set/2024f3p2_retas.zip)
+4. Burocracia
+    - [Casos de teste](test_set/2024f3p2_burocracia.zip)
+5. Jogo de Pratos
+    - [Casos de teste](test_set/2024f3p2_pratos.zip)
+
