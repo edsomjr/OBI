@@ -310,3 +310,14 @@
     - [Casos de teste](test_set/2024f2pj_alfabeto.zip)
 3. [Atletismo](https://neps.academy/br/exercise/2793)
     - [Casos de teste](test_set/2024f2pj_atletismo.zip)
+
+#### [Fase 3](provas/ProvaOBI2024_f3pj.pdf)
+
+1. Cadeado
+    - [Casos de teste](test_set/2024f3pj_cadeado.zip)
+2. Amigos
+    - [Casos de teste](test_set/2024f3pj_amigos.zip)
+3. Entrevistas de emprego
+    - [Casos de teste](test_set/2024f3pj_entrevistas.zip)
+4. Hotel Nlogônia
+    - [Casos de teste](test_set/2024f3pj_hotel.zip)
