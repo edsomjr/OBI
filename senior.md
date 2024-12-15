@@ -169,12 +169,17 @@
 
 ### 2022
 
-#### Fase 1
+#### [Fase 1](provas/ProvaOBI2022_f1ps.pdf)
 
-- Hotel: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f1ps.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1pj_hotel/hotel_cpp.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1pj_hotel/hotel_py.py))
-- Maior valor: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f1ps.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1p2_maior/maior_cpp.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1p2_maior/maior_py.py))
-- Quadrado Mágico: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f1ps.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1pj_magico/magico_cpp.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1pj_magico/magico_py.py))
-- Chuva: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f1ps.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1p2_chuva/andre.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1p2_chuva/chuva_py.py))
+1. [Hotel](https://neps.academy/br/exercise/2067)
+    - [Casos de teste](test_set/2022f1pj_hotel.zip)
+2. [Maior valor](https://neps.academy/br/exercise/2071)
+    - [Casos de teste](test_set/2022f1p2_maior.zip)
+3. [Quadrado Mágico](https://neps.academy/br/exercise/2068)
+    - [Casos de teste](test_set/2022f1pj_magico.zip)
+4. [Chuva](https://neps.academy/br/exercise/2072) 
+    - Soluções: [C](solutions/N2_2022_F1_Chuva.c), [C++](solutions/N2_2022_F1_Chuva.cpp), [Python](solutions/N2_2022_F1_Chuva.py)
+    - [Casos de teste](test_set/2022f1p2_chuva.zip)
 
 #### Fase 2
 

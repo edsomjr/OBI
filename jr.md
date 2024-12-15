@@ -245,11 +245,11 @@
 
 #### [Fase 1](provas/ProvaOBI2022_f1pj.pdf)
 
-- [Cinema](https://neps.academy/br/exercise/2066)
+1. [Cinema](https://neps.academy/br/exercise/2066)
     - [Casos de teste](test_set/2022f1pj_cinema.zip)
-- [Hotel](https://neps.academy/br/exercise/2067)
+2. [Hotel](https://neps.academy/br/exercise/2067)
     - [Casos de teste](test_set/2022f1pj_hotel.zip)
-- [Quadrado Mágico](https://neps.academy/br/exercise/2068)
+3. [Quadrado Mágico](https://neps.academy/br/exercise/2068)
     - [Casos de teste](test_set/2022f1pj_magico.zip)
 
 #### Fase 2
