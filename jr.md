@@ -243,11 +243,14 @@
 
 ### 2022
 
-#### Fase 1
+#### [Fase 1](provas/ProvaOBI2022_f1pj.pdf)
 
-- Cinema: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f1pj.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1pj_cinema/andre.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1pj_cinema/cinema_py.py))
-- Hotel: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f1pj.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1pj_hotel/hotel_cpp.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1pj_hotel/hotel_py.py))
-- Quadrado Mágico: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f1pj.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1pj_magico/magico_cpp.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f1pj_magico/magico_py.py))
+- [Cinema](https://neps.academy/br/exercise/2066)
+    - [Casos de teste](test_set/2022f1pj_cinema.zip)
+- [Hotel](https://neps.academy/br/exercise/2067)
+    - [Casos de teste](test_set/2022f1pj_hotel.zip)
+- [Quadrado Mágico](https://neps.academy/br/exercise/2068)
+    - [Casos de teste](test_set/2022f1pj_magico.zip)
 
 #### Fase 2
 
