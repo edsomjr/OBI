@@ -175,9 +175,11 @@
 #### [Fase 1](provas/ProvaOBI2019_f1pj.pdf)
 
 1. [Dominó](https://neps.academy/br/exercise/462)
-    - [Casos de teste](test_set/2019f1pj_.zip)
+    - [Casos de teste](test_set/2019f1pj_domino.zip)
 2. [A idade de Dona Mônica](https://neps.academy/br/exercise/463)
+    - [Casos de teste](test_set/2019f1pj_idade.zip)
 3. [Sequência Secreta](https://neps.academy/br/exercise/464)
+    - [Casos de teste](test_set/2019f1pj_secreta.zip)
 
 #### Fase 2
 

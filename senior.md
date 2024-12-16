@@ -91,10 +91,21 @@
 
 #### [Fase 1](provas/ProvaOBI2019_f1p2.pdf)
 
-- Chuva: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f1/chuva/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/3052), [NEPS](https://neps.academy/br/exercise/469) (solução: [cpp](solutions/NS_2019_F1_Chuva.cpp))
-- A idade de Dona Mônica: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f1/idade/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/3047), [NEPS](https://neps.academy/br/exercise/463) (solução: [cpp](solutions/NS_2019_F1_A_Idade_de_Dona_Monica.cpp), [py](solutions/NS_2019_F1_A_Idade_de_Dona_Monica.py))
-- Calçada Imperial: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f1/imperial/), [NEPS](https://neps.academy/br/exercise/467) (solução: [c](solutions/NS_2019_F1_Calcada_Imperial.c), [cpp](solutions/NS_2019_F1_Calcada_Imperial.cpp))
-- Soma: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f1/soma/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/3051), [NEPS](https://neps.academy/br/exercise/468) (solução: [cpp](solutions/NS_2019_F1_Soma.cpp))
+1. [Calçada Imperial](https://neps.academy/br/exercise/467)
+    - Soluções: [C](solutions/NS_2019_F1_Calcada_Imperial.c), [C++](solutions/NS_2019_F1_Calcada_Imperial.cpp))
+    - [Casos de teste](test_set/2019f1p2_imperial.zip)
+2. [A idade de Dona Mônica](https://neps.academy/br/exercise/463)
+    - Soluções: [C++](solutions/NS_2019_F1_A_Idade_de_Dona_Monica.cpp), [Python](solutions/NS_2019_F1_A_Idade_de_Dona_Monica.py))
+    - [Casos de teste](test_set/2019f1pj_idade.zip)
+3. [Soma](https://neps.academy/br/exercise/468)
+    - Soluções: [C++](solutions/NS_2019_F1_Soma.cpp))
+    - [Casos de teste](test_set/2019f1p2_soma.zip)
+4. [Chuva](https://neps.academy/br/exercise/469)
+    - Soluções: [C++](solutions/NS_2019_F1_Chuva.cpp))
+    - [Casos de teste](test_set/2019f1p2_chuva.zip)
+
+
+- Soma: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f1/soma/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/3051), [NEPS](https://neps.academy/br/exercise/468) (
 
 #### Fase 2
 
