@@ -112,7 +112,7 @@
 
 ### 2020
 
-#### Fase 1
+#### [Fase 1 - Turno A](provas/ProvaOBI2020_f1ps.pdf)
 
 - Acelerador de partículas: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/acelerador/), [NEPS](https://neps.academy/br/exercise/822)
 - Bingo!: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/bingo/), [NEPS](https://neps.academy/br/exercise/829) (solução: [cpp](solutions/NS_2020_F1_Bingo.cpp))

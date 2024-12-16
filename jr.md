@@ -192,7 +192,7 @@
 
 ### 2020
 
-#### Fase 1
+#### [Fase 1 - Turno A](provas/ProvaOBI2020_f1pj.pdf)
 
 - Entrega de Caixas: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2020/f1/caixas/)
 - Camisetas da Olimpíada: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2020/f1/camisetas/)
