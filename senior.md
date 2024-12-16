@@ -142,10 +142,14 @@
 
 #### [Fase 1](provas/ProvaOBI2021_f1ps.pdf)
 
-- Baralho: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2021/f1/baralho/)
-- Tempo de resposta: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2021/f1/tempo/)
-- Torneio de tênis: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2021/f1/torneio/)
-- Zero para cancelar: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2021/f1/zero/)
+1. [Torneio de tênis](https://neps.academy/br/exercise/1481)
+    - [Casos de teste](test_set/2021f1pj_torneio.zip)
+2. [Zero para cancelar](https://neps.academy/br/exercise/1486)
+    - [Casos de teste](test_set/2021f1p1_zero.zip)
+3. [Tempo de resposta](https://neps.academy/br/exercise/1483)
+    - [Casos de teste](test_set/2021f1p1_tempo.zip)
+4. [Baralho](https://neps.academy/br/exercise/1489)
+    - [Casos de teste](test_set/2021f1ps_tempo.zip)
 
 #### Fase 2
 

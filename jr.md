@@ -218,9 +218,12 @@
 
 #### [Fase 1](provas/ProvaOBI2021_f1pj.pdf)
 
-- Idade de Camila: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2021/f1/idade/)
-- Plano de Internet: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2021/f1/plano/)
-- Torneio de tênis: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2021/f1/torneio/)
+1. [Idade de Camila](https://neps.academy/br/exercise/1479)
+    - [Casos de teste](test_set/2021f1pj_idade.zip)
+2. [Plano de Internet](https://neps.academy/br/exercise/1480)
+    - [Casos de teste](test_set/2021f1pj_plano.zip)
+3. [Torneio de tênis](https://neps.academy/br/exercise/1481)
+    - [Casos de teste](test_set/2021f1pj_torneio.zip)
 
 #### Fase 2
 
