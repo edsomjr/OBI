@@ -194,10 +194,16 @@
 
 #### [Fase 1 - Turno A](provas/ProvaOBI2020_f1pj.pdf)
 
-- Entrega de Caixas: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2020/f1/caixas/)
+1. [Piloto Automático](https://neps.academy/br/exercise/890)
+    - [Casos de teste](test_set/2020f1pj_piloto.zip)
+2. [Entrega de Caixas](https://neps.academy/br/exercise/891)
+    - [Casos de teste](test_set/2020f1pj_caixas.zip)
+3. [Escher](https://neps.academy/br/exercise/892)
+    - [Casos de teste](test_set/2020f1pj_escher.zip)
+
+### Fase 1 - Turno B
+
 - Camisetas da Olimpíada: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2020/f1/camisetas/)
-- Escher: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2020/f1/escher/)
-- Piloto Automático: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2020/f1/piloto/)
 - Relógio de Atleta: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2020/f1/relogio/)
 - Divisão do Tesouro: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2020/f1/tesouro/)
 

@@ -114,14 +114,22 @@
 
 #### [Fase 1 - Turno A](provas/ProvaOBI2020_f1ps.pdf)
 
-- Acelerador de partículas: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/acelerador/), [NEPS](https://neps.academy/br/exercise/822)
-- Bingo!: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/bingo/), [NEPS](https://neps.academy/br/exercise/829) (solução: [cpp](solutions/NS_2020_F1_Bingo.cpp))
+1. [Acelerador de partículas](https://neps.academy/br/exercise/822)
+    - [Casos de teste](test_set/2020f1p2_acelerador.zip)
+2. [Fissura Perigosa](https://neps.academy/br/exercise/825)
+    - [Casos de teste](test_set/2020f1p1_fissura.zip)
+3. [Bingo!](https://neps.academy/br/exercise/829)
+    - Soluções: [C++](solutions/NS_2020_F1_Bingo.cpp))
+    - [Casos de teste](test_set/2020f1ps_bingo.zip)
+4. [Paciente Zero](https://neps.academy/br/exercise/830)
+    - [Casos de teste](test_set/2020f1ps_paciente.zip)
+
+### Fase 1 - Turno B
+
 - Camisetas da Olimpíada: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/camisetas/), [NEPS](https://neps.academy/br/exercise/980)
-- Fissura Perigosa: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/fissura/), [NEPS](https://neps.academy/br/exercise/825)
 - Garamana: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/garamana/), [NEPS](https://neps.academy/br/exercise/1083) (solução: [cpp](solutions/NS_2020_F1_Garamana.cpp))
 - Irmãos: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/irmaos/), [NEPS](https://neps.academy/br/exercise/978) (solução: [cpp](solutions/NS_2020_F1_Irmaos.cpp))
 - Música para Todos: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/musica/), [NEPS](https://neps.academy/br/exercise/1084)
-- Paciente Zero: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/paciente/), [NEPS](https://neps.academy/br/exercise/830)
 
 #### Fase 2
 
