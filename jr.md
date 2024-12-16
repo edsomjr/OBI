@@ -172,11 +172,12 @@
 
 ### 2019
 
-#### Fase 1
+#### [Fase 1](provas/ProvaOBI2019_f1pj.pdf)
 
-- Dominó: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2019/f1/domino/)
-- A idade de Dona Mônica: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2019/f1/idade/)
-- Sequência Secreta: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2019/f1/secreta/)
+1. [Dominó](https://neps.academy/br/exercise/462)
+    - [Casos de teste](test_set/2019f1pj_.zip)
+2. [A idade de Dona Mônica](https://neps.academy/br/exercise/463)
+3. [Sequência Secreta](https://neps.academy/br/exercise/464)
 
 #### Fase 2
 
