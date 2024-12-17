@@ -134,10 +134,16 @@
 
 #### [Fase 1 - Turno B](provas/ProvaOBI2020_f1pu-b.pdf)
 
-- Camisetas da Olimpíada: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/camisetas/), [NEPS](https://neps.academy/br/exercise/980)
-- Garamana: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/garamana/), [NEPS](https://neps.academy/br/exercise/1083) (solução: [cpp](solutions/NS_2020_F1_Garamana.cpp))
-- Irmãos: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/irmaos/), [NEPS](https://neps.academy/br/exercise/978) (solução: [cpp](solutions/NS_2020_F1_Irmaos.cpp))
-- Música para Todos: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/musica/), [NEPS](https://neps.academy/br/exercise/1084)
+1. [Irmãos](https://neps.academy/br/exercise/978)
+    - Soluções: [C++](solutions/NS_2020_F1_Irmaos.cpp))
+    - [Casos de teste](test_set/2020f1p2_irmaos.zip)
+2. [Garamana](https://neps.academy/br/exercise/1083)
+    - Soluções: [C++](solutions/NS_2020_F1_Garamana.cpp))
+    - [Casos de teste](test_set/2020f1ps_garamana.zip)
+3. [Camisetas da Olimpíada](https://neps.academy/br/exercise/980)
+    - [Casos de teste](test_set/2020f1pj_camisetas.zip)
+4. [Música para Todos](https://neps.academy/br/exercise/1084)
+    - [Casos de teste](test_set/2020f1ps_musica.zip)
 
 #### Fase 2
 

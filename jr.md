@@ -206,9 +206,12 @@
 
 #### [Fase 1 - Turno B](provas/ProvaOBI2020_f1pj-b.pdf)
 
-- Camisetas da Olimpíada: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2020/f1/camisetas/)
-- Relógio de Atleta: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2020/f1/relogio/)
-- Divisão do Tesouro: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2020/f1/tesouro/)
+1. [Relógio de Atleta](https://neps.academy/br/exercise/1026)
+    - [Casos de teste](test_set/2020f1pj_relogio.zip)
+2. [Divisão do Tesouro](https://neps.academy/br/exercise/976)
+    - [Casos de teste](test_set/2020f1pj_tesouro.zip)
+3. [Camisetas da Olimpíada](https://neps.academy/br/exercise/980)
+    - [Casos de teste](test_set/2020f1pj_camisetas.zip)
 
 #### Fase 2
 
