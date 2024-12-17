@@ -155,8 +155,10 @@
 
 #### [Fase 1](provas/ProvaOBI2018_f1pj.pdf)
 
-1. Basquete de robôs: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2018/f1/basquete/)
-2. Álbum da copa: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2018/f1/album/)
+1. [Basquete de robôs](https://neps.academy/br/exercise/162)
+    - [Casos de teste](test_set/2018f1pj_basquete.zip)
+2. [Álbum da copa](https://neps.academy/br/exercise/163)
+    - [Casos de teste](test_set/2018f1pj_album.zip)
 
 #### Fase 2
 
