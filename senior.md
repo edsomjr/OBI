@@ -67,7 +67,7 @@
 
 ### 2018
 
-#### Fase 1
+#### [Fase 1](provas/ProvaOBI2018_f1pu.pdf)
 
 - Figurinhas da copa: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2018/f1/figurinhas/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2783), [NEPS](https://neps.academy/br/exercise/168) (solução: [c](solutions/NS_2018_F1_Figurinhas_da_Copa.c), [cpp](solutions/NS_2018_F1_Figurinhas_da_Copa.cpp), [py](solutions/NS_2018_F1_Figurinhas_da_Copa.py))
 - Ilhas: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2018/f1/ilhas/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2784), [NEPS](https://neps.academy/br/exercise/183) (solução: [cpp](solutions/NS_2018_F1_Ilhas.cpp))
