@@ -132,7 +132,7 @@
 4. [Paciente Zero](https://neps.academy/br/exercise/830)
     - [Casos de teste](test_set/2020f1ps_paciente.zip)
 
-### Fase 1 - Turno B
+#### [Fase 1 - Turno B](provas/ProvaOBI2020_f1pu-b.pdf)
 
 - Camisetas da Olimpíada: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/camisetas/), [NEPS](https://neps.academy/br/exercise/980)
 - Garamana: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/garamana/), [NEPS](https://neps.academy/br/exercise/1083) (solução: [cpp](solutions/NS_2020_F1_Garamana.cpp))

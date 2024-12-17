@@ -204,7 +204,7 @@
 3. [Escher](https://neps.academy/br/exercise/892)
     - [Casos de teste](test_set/2020f1pj_escher.zip)
 
-### Fase 1 - Turno B
+#### [Fase 1 - Turno B](provas/ProvaOBI2020_f1pj-b.pdf)
 
 - Camisetas da Olimpíada: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2020/f1/camisetas/)
 - Relógio de Atleta: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2020/f1/relogio/)
