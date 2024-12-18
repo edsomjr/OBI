@@ -44,11 +44,17 @@
 
 ### 2017
 
-#### Fase 1
+#### [Fase 1](provas/Prova2017_f1pu.pdf)
 
-- Botas Trocadas: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2017/f1/botas/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1245), [NEPS](https://neps.academy/br/exercise/19) (solução: [cpp](solutions/NS_2017_F1_Botas_Trocadas.cpp))
-- Game-10: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2017/f1/game10/), [NEPS](https://neps.academy/br/exercise/17) (solução: [cpp](solutions/NS_2017_F1_Game_10.cpp))
-- Palíndromo: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2017/f1/palindromo/) (solução: [cpp](solutions/NS_2017_F1_Palindromo.cpp))
+1. [Game-10](https://neps.academy/br/exercise/17)
+    - Soluções: [C++](solutions/NS_2017_F1_Game_10.cpp))
+    - [Casos de teste](test_set/2017f1p2_game10.zip)
+2. [Palíndromo](https://neps.academy/br/exercise/631)
+    - Soluções: [C++](solutions/NS_2017_F1_Palindromo.cpp))
+    - [Casos de teste](test_set/2004f0p0_pal.zip)
+3. [Botas Trocadas](https://neps.academy/br/exercise/19)
+    - Soluções: [C++](solutions/NS_2017_F1_Botas_Trocadas.cpp))
+    - [Casos de teste](test_set/2017f1p2_botas.zip)
 
 #### Fase 2
 

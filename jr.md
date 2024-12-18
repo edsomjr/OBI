@@ -134,10 +134,12 @@
 
 ### 2017
 
-#### Fase 1
+#### [Fase 1](provas/Prova2017_f1pj.pdf)
 
-- Bondinho: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2017/f1/bondinho/)
-- Drone de Entrega: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2017/f1/drone/)
+1. [Bondinho](https://neps.academy/br/exercise/13)
+    - [Casos de teste](test_set/2017f1pj_bondinho.zip)
+2. [Drone de Entrega](https://neps.academy/br/exercise/14)
+    - [Casos de teste](test_set/2017f1pj_drone.zip)
 
 #### Fase 2
 
