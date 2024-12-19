@@ -15,9 +15,19 @@
 
 #### Fase 1
 
-- Divisores: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2015/f1/divisores/) (solução: [cpp](solutions/NS_2015_F1_Divisores.cpp), [py](solutions/NS_2015_F1_Divisores.py))
-- Lápis de Cor: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2015/f1/cor/) (solução: [cpp](solutions/NS_2015_F1_Lapis_de_Cor.cpp))
-- Metrô: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2015/f1/metro/) (solução: [cpp](solutions/NS_2015_F1_Metro.cpp))
+1. [Cobra Coral](https://neps.academy/br/exercise/72)
+    - [Casos de teste](test_set/2015f1p2_coral.zip)
+2. [Quebra-cabeça](https://neps.academy/br/exercise/70)
+    - [Casos de teste](test_set/2015f1p2_quebra.zip)
+3. [Lápis de Cor](https://olimpiada.ic.unicamp.br/pratique/ps/2015/f1/cor/)
+    - Soluções: [C++](solutions/NS_2015_F1_Lapis_de_Cor.cpp))
+    - [Casos de teste](test_set/2015f1pu_cor.zip)
+4. [Divisores](https://olimpiada.ic.unicamp.br/pratique/ps/2015/f1/divisores/)
+    - Soluções: [C++](solutions/NS_2015_F1_Divisores.cpp), [Python](solutions/NS_2015_F1_Divisores.py))
+    - [Casos de teste](test_set/2015f1pu_divisores.zip)
+5. [Metrô](https://olimpiada.ic.unicamp.br/pratique/ps/2015/f1/metro/)
+    - Soluções: [C++](solutions/NS_2015_F1_Metro.cpp))
+    - [Casos de teste](test_set/2015f1pu_metro.zip)
 
 #### Fase 2
 

@@ -109,9 +109,12 @@
 
 #### Fase 1
 
-- Fita Colorida: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2015/f1/fita/)
-- Móbile: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2015/f1/mobile/)
-- Prêmio do Milhão: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2015/f1/premio/)
+1. [Móbile](https://neps.academy/br/exercise/50)
+    - [Casos de teste](test_set/2015f1pj_mobile.zip)
+2. [Fita Colorida](https://neps.academy/br/exercise/49)
+    - [Casos de teste](test_set/2015f1pj_fita.zip)
+3. [Prêmio do Milhão](https://neps.academy/br/exercise/48)
+    - [Casos de teste](test_set/2015f1pj_premio.zip)
 
 #### Fase 2
 
