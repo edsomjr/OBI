@@ -119,11 +119,14 @@
 
 ### 2016
 
-#### Fase 1
+#### [Fase 1](provas/ProvaOBI2016_f1pj.pdf)
 
-- Jogo de par ou ímpar: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2016/f1/jogo/)
-- Lâmpadas: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2016/f1/lampadas/)
-- Plantação de Morangos: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2016/f1/morango/)
+1. [Jogo de par ou ímpar](https://neps.academy/br/exercise/51)
+    - [Casos de teste](test_set/2016f1pj_jogo.zip)
+2. [Lâmpadas](https://neps.academy/br/exercise/52)
+    - [Casos de teste](test_set/2016f1pj_lampadas.zip)
+3. [Plantação de Morangos](https://neps.academy/br/exercise/53)
+    - [Casos de teste](test_set/2016f1pj_morango.zip)
 
 #### Fase 2
 

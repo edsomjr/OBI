@@ -27,12 +27,20 @@
 
 ### 2016
 
-#### Fase 1
+#### [Fase 1](provas/ProvaOBI2016_f1pu.pdf)
 
-- Nova avenida: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f1/avenida/) (solução: [cpp](solutions/NS_2016_F1_Nova_avenida.cpp))
-- Chaves: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f1/chaves/), [NEPS](https://neps.academy/br/exercise/56) (solução: [cpp](solutions/NS_2016_F1_Chaves.cpp))
-- Direção: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f1/direcao/) (solução: [cpp](solutions/NS_2016_F1_Direcao.cpp))
-- Lâmpadas do hotel: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f1/lampadas-hotel/), [NEPS](https://neps.academy/br/exercise/59) (solução: [cpp](solutions/NS_2016_F1_Lampadas_do_hotel.cpp))
+1. [Chaves](https://neps.academy/br/exercise/56)
+    - Soluções: [C++](solutions/NS_2016_F1_Chaves.cpp))
+    - [Casos de teste](test_set/2016f1p2_chaves.zip)
+2. [Chuva](https://neps.academy/br/exercise/58)
+    - [Casos de teste](test_set/2016f1p2_chuva.zip)
+3. [Lâmpadas do hotel](https://neps.academy/br/exercise/59)
+    - Soluções: [C++](solutions/NS_2016_F1_Lampadas_do_hotel.cpp))
+    - [Casos de teste](test_set/2016f1p2_hotel.zip)
+4. [Direção](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f1/direcao/)
+    - Soluções: [C++](solutions/NS_2016_F1_Direcao.cpp))
+5. [Nova avenida](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f1/avenida/)
+    - Soluções: [C++](solutions/NS_2016_F1_Nova_avenida.cpp))
 
 #### Fase 2
 
