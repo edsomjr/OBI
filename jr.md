@@ -93,11 +93,14 @@
 
 ### 2014
 
-#### Fase 1
+#### [Fase 1](provas/ProvaOBI2014_f1pj.pdf)
 
-- Fila: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2014/f1/fila/)
-- Flíper: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2014/f1/fliper/)
-- Gangorra: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2014/f1/gangorra/)
+1. [Flíper](https://neps.academy/br/exercise/87)
+    - [Casos de teste](test_set/2014f1pj_fliper.zip)
+2. [Gangorra](https://neps.academy/br/exercise/260)
+    - [Casos de teste](test_set/2014f1pj_gangorra.zip)
+3. [Fila](https://neps.academy/br/exercise/384)
+    - [Casos de teste](test_set/2014f1pj_fila.zip)
 
 #### Fase 2
 
@@ -107,7 +110,7 @@
 
 ### 2015
 
-#### Fase 1
+#### [Fase 1](provas/ProvaOBI2015_f1pj.pdf)
 
 1. [Móbile](https://neps.academy/br/exercise/50)
     - [Casos de teste](test_set/2015f1pj_mobile.zip)

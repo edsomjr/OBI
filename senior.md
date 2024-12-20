@@ -2,10 +2,20 @@
 
 ### 2014
 
-#### Fase 1
+#### [Fase 1](provas/ProvaOBI2014_f1pu.pdf)
 
-- Cartas: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2014/f1/cartas/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2456) (solução: [py](solutions/NS_2014_F1_Cartas.py))
-- Carteiro: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2014/f1/carteiro/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2448) (solução: [cpp](solutions/NS_2014_F1_Carteiro.cpp), [py](solutions/NS_2014_F1_Carteiro.py))
+1. [Carteiro](https://olimpiada.ic.unicamp.br/pratique/ps/2014/f1/carteiro/)
+    - [Casos de teste](test_set/2014f1pu_carteiro.zip)
+    - Soluções: [C++](solutions/NS_2014_F1_Carteiro.cpp), [Python](solutions/NS_2014_F1_Carteiro.py))
+2. [Cartas](https://olimpiada.ic.unicamp.br/pratique/ps/2014/f1/cartas/)
+    - [Casos de teste](test_set/2014f1pu_cartas.zip)
+    - Soluções: [Python](solutions/NS_2014_F1_Cartas.py))
+3. [PacMan](https://neps.academy/br/exercise/390)
+    - [Casos de teste](test_set/2014f1p2_pacman.zip)
+4. [Fechadura](https://neps.academy/br/exercise/391)
+    - [Casos de teste](test_set/2014f1p2_fechadura.zip)
+5. [Matriz Escada](https://neps.academy/br/exercise/392)
+    - [Casos de teste](test_set/2014f1p2_escada.zip)
 
 #### Fase 2
 
@@ -13,7 +23,7 @@
 
 ### 2015
 
-#### Fase 1
+#### [Fase 1](provas/ProvaOBI2015_f1pu.pdf)
 
 1. [Cobra Coral](https://neps.academy/br/exercise/72)
     - [Casos de teste](test_set/2015f1p2_coral.zip)
