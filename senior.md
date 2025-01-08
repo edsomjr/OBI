@@ -165,6 +165,7 @@
 1. [Acelerador de partículas](https://neps.academy/br/exercise/822)
     - [Casos de teste](test_set/2020f1p2_acelerador.zip)
 2. [Fissura Perigosa](https://neps.academy/br/exercise/825)
+    - Soluções: [C++](solutions/NS_2020_F1_Fissura.cpp))
     - [Casos de teste](test_set/2020f1p1_fissura.zip)
 3. [Bingo!](https://neps.academy/br/exercise/829)
     - Soluções: [C++](solutions/NS_2020_F1_Bingo.cpp))
