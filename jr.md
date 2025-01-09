@@ -5,12 +5,12 @@
 #### [Fase 1](provas/ProvaOBI2008_f1pj.pdf)
 
 - [OBI](https://neps.academy/br/exercise/221)
-    - [Casos de teste](test_set/2024f1pj_obi.zip)
+    - [Casos de teste](test_set/2008f1pj_obi.zip)
 - [Telefone](https://neps.academy/br/exercise/592)
     - Soluções: [C](solutions/JR_2008_F1_Telefone.c), [C++](solutions/JR_2008_F1_Telefone.cpp), [Python](solutions/JR_2008_F1_Telefone.py)
-    - [Casos de teste](test_set/2024f1pj_telefone2.zip)
+    - [Casos de teste](test_set/2008f1pj_telefone2.zip)
 - [Vestibular](https://neps.academy/br/exercise/160)
-    - [Casos de teste](test_set/2024f1pj_vestib.zip)
+    - [Casos de teste](test_set/2008f1pj_vestib.zip)
 
 #### Fase 2
 
