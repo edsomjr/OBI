@@ -59,8 +59,9 @@
     - [Casos de teste](test_set/2016f1p2_hotel.zip)
 4. [Direção](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f1/direcao/)
     - Soluções: [C++](solutions/NS_2016_F1_Direcao.cpp))
+    - [Casos de teste](test_set/2016f1pu_direcao.zip)
 5. [Nova avenida](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f1/avenida/)
-    - Soluções: [C++](solutions/NS_2016_F1_Nova_avenida.cpp))
+    - [Casos de teste](test_set/2016f1pu_avenida.zip)
 
 #### Fase 2
 
