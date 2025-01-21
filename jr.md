@@ -102,11 +102,14 @@
 3. [Fila](https://neps.academy/br/exercise/384)
     - [Casos de teste](test_set/2014f1pj_fila.zip)
 
-#### Fase 2
+#### [Fase 1](provas/ProvaOBI2014_f2pj.pdf)
 
-- Passa Bolinha: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2014/f2/bolinha/)
-- Loteria: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2014/f2/loteria/)
-- Sinuca: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2014/f2/sinuca/)
+1. [Loteria](https://neps.academy/br/exercise/491)
+    - [Casos de teste](test_set/2014f2pj_loteria.zip)
+2. [Sinuca](https://neps.academy/br/exercise/492)
+    - [Casos de teste](test_set/2014f2pj_sinuca.zip)
+3. [Passa Bolinha](https://neps.academy/br/exercise/258)
+    - [Casos de teste](test_set/2014f2pj_bolinha.zip)
 
 ### 2015
 

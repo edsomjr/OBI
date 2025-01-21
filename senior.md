@@ -17,9 +17,19 @@
 5. [Matriz Escada](https://neps.academy/br/exercise/392)
     - [Casos de teste](test_set/2014f1p2_escada.zip)
 
-#### Fase 2
+#### [Fase 1](provas/ProvaOBI2014_f2pu.pdf)
 
-- Voo: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2014/f2/voo/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2462) (solução: [cpp](solutions/NS_2014_F2_Voo.cpp))
+1. [Notas](https://neps.academy/br/exercise/495)
+    - [Casos de teste](test_set/2014f2p2_notas.zip)
+2. [Voo](https://www.beecrowd.com.br/judge/pt/problems/view/2462)
+    - [Casos de teste](test_set/2014f2pu_voo.zip)
+    - Solução: [C++](solutions/NS_2014_F2_Voo.cpp))
+3. [Blefe](https://neps.academy/br/exercise/394)
+    - [Casos de teste](test_set/2014f2p2_blefe.zip)
+4. [Mapa](https://neps.academy/br/exercise/497)
+    - [Casos de teste](test_set/2014f2p2_mapa.zip)
+5. [Frequência](https://neps.academy/br/exercise/498)
+    - [Casos de teste](test_set/2014f2p2_frequencia.zip)
 
 ### 2015
 
