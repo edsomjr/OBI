@@ -17,7 +17,7 @@
 5. [Matriz Escada](https://neps.academy/br/exercise/392)
     - [Casos de teste](test_set/2014f1p2_escada.zip)
 
-#### [Fase 1](provas/ProvaOBI2014_f2pu.pdf)
+#### [Fase 2](provas/ProvaOBI2014_f2pu.pdf)
 
 1. [Notas](https://neps.academy/br/exercise/495)
     - [Casos de teste](test_set/2014f2p2_notas.zip)

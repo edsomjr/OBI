@@ -102,7 +102,7 @@
 3. [Fila](https://neps.academy/br/exercise/384)
     - [Casos de teste](test_set/2014f1pj_fila.zip)
 
-#### [Fase 1](provas/ProvaOBI2014_f2pj.pdf)
+#### [Fase 2](provas/ProvaOBI2014_f2pj.pdf)
 
 1. [Loteria](https://neps.academy/br/exercise/491)
     - [Casos de teste](test_set/2014f2pj_loteria.zip)
