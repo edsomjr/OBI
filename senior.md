@@ -49,11 +49,20 @@
     - Soluções: [C++](solutions/NS_2015_F1_Metro.cpp))
     - [Casos de teste](test_set/2015f1pu_metro.zip)
 
-#### [Fase 1](provas/ProvaOBI2015_f2pu.pdf)
+#### [Fase 1](provas/ProvaOBI2015_f1pu.pdf)
 
-- Catador: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2015/f2/catador/) (solução: [cpp](solutions/NS_2015_F2_Catador.cpp))
-- Número Napolitano: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2015/f2/napolitano/) (solução: [cpp](solutions/NS_2015_F2_Numero_Napolitano.cpp))
-- Usina: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2015/f2/usina/)
+1. [Catador](https://olimpiada.ic.unicamp.br/pratique/ps/2015/f2/catador/)
+    - [Casos de teste](test_set/2015f2pu_catador.zip)
+    - Soluções: [C++](solutions/NS_2015_F2_Catador.cpp)
+2. [Chocolate em Barra](https://neps.academy/br/exercise/69)
+    - [Casos de teste](test_set/2015f2p2_chocolate.zip)
+3. [Cálculo](https://neps.academy/br/exercise/68)
+    - [Casos de teste](test_set/2015f2p2_calculo.zip)
+4. [Número Napolitano](https://olimpiada.ic.unicamp.br/pratique/ps/2015/f2/napolitano/)
+    - [Casos de teste](test_set/2015f2pu_napolitano.zip)
+    - Soluções: [C++](solutions/NS_2015_F2_Numero_Napolitano.cpp)
+5. [Usina](https://olimpiada.ic.unicamp.br/pratique/ps/2015/f2/usina/)
+    - [Casos de teste](test_set/2015f2pu_usina.zip)
 
 ### 2016
 
