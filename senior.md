@@ -82,13 +82,22 @@
 5. [Nova avenida](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f1/avenida/)
     - [Casos de teste](test_set/2016f1pu_avenida.zip)
 
-#### Fase 2
+#### [Fase 1](provas/ProvaOBI2016_f2pu.pdf)
 
-- Arco e flecha: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/arco-online/) (solução: [cpp](solutions/NS_2016_F2_Arco_e_Flecha.cpp))
-- Ciclovias: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/ciclovias/), [NEPS](https://neps.academy/br/exercise/12)
-- Jardim de Infância: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/jardim/), [NEPS](https://neps.academy/br/exercise/9) (solução: [cpp](solutions/NS_2016_F2_Jardim_de_Infancia.cpp))
-- Pô, que mão: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/pokemon/), [NEPS](https://neps.academy/br/exercise/8) (solução: [cpp](solutions/NS_2016_F2_Po_que_mao.cpp))
-- Times: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/times/) (solução: [cpp](solutions/NS_2016_F2_Times.cpp))
+1. [Pô, que mão](https://neps.academy/br/exercise/8)
+    - [Casos de teste](test_set/2016f2p2_pokemon.zip)
+    - Soluções: [C++](solutions/NS_2016_F2_Po_que_mao.cpp))
+2. [Jardim de Infância](https://neps.academy/br/exercise/9)
+    - [Casos de teste](test_set/2016f2p2_jardim.zip)
+    - Soluções: [C++](solutions/NS_2016_F2_Jardim_de_Infancia.cpp))
+3. [Times](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/times/)
+    - [Casos de teste](test_set/2016f2pu_times.zip)
+    - Soluções: [C++](solutions/NS_2016_F2_Times.cpp))
+4. [Arco e flecha](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/arco-online/)
+    - [Casos de teste](test_set/2016f2pu_arco_online.zip)
+    - Soluções: [C++](solutions/NS_2016_F2_Arco_e_Flecha.cpp))
+5. [Ciclovias](https://neps.academy/br/exercise/12)
+    - [Casos de teste](test_set/2016f2p2_ciclovias.zip)
 
 ### 2017
 

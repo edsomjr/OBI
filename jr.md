@@ -142,12 +142,16 @@
 3. [Plantação de Morangos](https://neps.academy/br/exercise/53)
     - [Casos de teste](test_set/2016f1pj_morango.zip)
 
-#### Fase 2
+#### [Fase 1](provas/ProvaOBI2016_f2pj.pdf)
 
-- Caverna de Ordinskaya: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2016/f2/caverna/)
-- Fuga em helicóptero: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2016/f2/fuga/)
-- Gincana: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2016/f2/gincana/)
-- Medalhas: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2016/f2/medalhas/)
+1. [Medalhas](https://neps.academy/br/exercise/2)
+    - [Casos de teste](test_set/2016f2p1_medalhas.zip)
+2. [Caverna de Ordinskaya](https://neps.academy/br/exercise/4)
+    - [Casos de teste](test_set/2016f2p1_caverna.zip)
+3. [Gincana](https://neps.academy/br/exercise/3)
+    - [Casos de teste](test_set/2016f2pj_gincana.zip)
+4. [Fuga em helicóptero](https://neps.academy/br/exercise/5)
+    - [Casos de teste](test_set/2016f2pj_fuga.zip)
 
 ### 2017
 
