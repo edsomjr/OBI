@@ -150,11 +150,14 @@
     - Soluções: [C++](solutions/NS_2018_F1_Ilhas.cpp))
     - [Casos de teste](test_set/2018f1pu_ilhas.zip)
 
-#### Fase 2
+#### [Fase 2](provas/ProvaOBI2018_f2pu.pdf)
 
-- Elevador: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2018/f2/elevador/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2835), [NEPS](https://neps.academy/br/exercise/209)
-- Fuga: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2018/f2/fuga/), [NEPS](https://neps.academy/br/exercise/208), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2834)
-- Sequência: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2018/f2/sequencia/), [NEPS](https://neps.academy/br/exercise/211), [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2837)
+1. [Fuga](https://neps.academy/br/exercise/208)
+    - [Casos de teste](test_set/2018f2p2_fuga.zip)
+2. [Elevador](https://neps.academy/br/exercise/209)
+    - [Casos de teste](test_set/2018f2p2_elevador.zip)
+3. [Sequência](https://neps.academy/br/exercise/211)
+    - [Casos de teste](test_set/2018f2pu_sequencia.zip)
 
 #### Fase 3
 

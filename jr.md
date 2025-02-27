@@ -186,11 +186,14 @@
 2. [Álbum da copa](https://neps.academy/br/exercise/163)
     - [Casos de teste](test_set/2018f1pj_album.zip)
 
-#### Fase 2
+#### [Fase 2](provas/ProvaOBI2018_f2pj.pdf)
 
-- Cápsulas: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2018/f2/capsulas/)
-- Copa: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2018/f2/copa/)
-- Pesos: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2018/f2/pesos/)
+1. [Copa](https://neps.academy/br/exercise/203)
+    - [Casos de teste](test_set/2018f2pj_copa.zip)
+2. [Pesos](https://neps.academy/br/exercise/204)
+    - [Casos de teste](test_set/2018f2pj_pesos.zip)
+3. [Cápsulas](https://neps.academy/br/exercise/205)
+    - [Casos de teste](test_set/2018f2pj_capsulas.zip)
 
 #### Fase 3
 
