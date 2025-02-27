@@ -162,11 +162,14 @@
 2. [Drone de Entrega](https://neps.academy/br/exercise/14)
     - [Casos de teste](test_set/2017f1pj_drone.zip)
 
-#### Fase 2
+#### [Fase 2](provas/Prova2017_f2pj.pdf)
 
-- Cartas: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2017/f2/cartas/)
-- Montanha: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2017/f2/montanha/)
-- Jogo de Tabuleiro: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2017/f2/tabuleiro/)
+1. [Cartas](https://neps.academy/br/exercise/20)
+    - [Casos de teste](test_set/2017f2pj_cartas.zip)
+2. [Montanha](https://neps.academy/br/exercise/21)
+    - [Casos de teste](test_set/2017f2pj_montanha.zip)
+3. [Jogo de Tabuleiro](https://neps.academy/br/exercise/22)
+    - [Casos de teste](test_set/2017f2pj_tabuleiro.zip)
 
 #### Fase 3
 

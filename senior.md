@@ -113,12 +113,20 @@
     - Soluções: [C++](solutions/NS_2017_F1_Botas_Trocadas.cpp))
     - [Casos de teste](test_set/2017f1p2_botas.zip)
 
-#### Fase 2
+#### [Fase 2](provas/Prova2017_f2pu.pdf)
 
-- Cortando o Papel: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2017/f2/papel/), [NEPS](https://neps.academy/br/exercise/27) (solução: [cpp](solutions/NS_2017_F2_Cortando_o_Papel.cpp))
-- Dario e Xerxes: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2017/f2/xerxes/), [NEPS](https://neps.academy/br/exercise/25) (solução: [cpp](solutions/NS_2017_F2_Dario_e_Xerxes.cpp))
-- Frete: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2017/f2/frete/), [NEPS](https://neps.academy/br/exercise/28) (solução: [cpp](solutions/NS_2017_F2_Frete.cpp))
-- Mapa: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2017/f2/mapa/), [NEPS](https://neps.academy/br/exercise/26) (solução: [cpp](solutions/NS_2017_F2_Mapa.cpp))
+1. [Dario e Xerxes](https://neps.academy/br/exercise/25) 
+    - [Casos de teste](test_set/2017f2p2_xerxes.zip)
+    - Soluções: [C++](solutions/NS_2017_F2_Dario_e_Xerxes.cpp))
+2. [Mapa](https://neps.academy/br/exercise/26)
+    - [Casos de teste](test_set/2017f2p2_mapa.zip)
+    - Soluções: [C++](solutions/NS_2017_F2_Mapa.cpp))
+3. [Cortando o Papel](https://neps.academy/br/exercise/27)
+    - [Casos de teste](test_set/2017f2p2_papel.zip)
+    - Soluções: [C++](solutions/NS_2017_F2_Cortando_o_Papel.cpp))
+4. [Frete](https://neps.academy/br/exercise/28)
+    - [Casos de teste](test_set/2017f2p2_frete.zip)
+    - Soluções: [C++](solutions/NS_2017_F2_Frete.cpp))
 
 #### Fase 3
 
