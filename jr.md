@@ -212,11 +212,14 @@
 3. [Sequência Secreta](https://neps.academy/br/exercise/464)
     - [Casos de teste](test_set/2019f1pj_secreta.zip)
 
-#### Fase 2
+#### [Fase 2](provas/ProvaOBI2019_f2pj.pdf)
 
-- Jogo dos copos: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2019/f2/copos/)
-- Nota esquecida: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2019/f2/nota/)
-- Tabela do campeonato: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2019/f2/tabela/)
+1. [Nota esquecida](https://neps.academy/br/exercise/470)
+    - [Casos de teste](test_set/2019f2pj_nota.zip)
+2. [Tabela do campeonato](https://neps.academy/br/exercise/471)
+    - [Casos de teste](test_set/2019f2pj_tabela.zip)
+3. [Jogo dos copos](https://neps.academy/br/exercise/472)
+    - [Casos de teste](test_set/2019f2pj_copos.zip)
 
 #### Fase 3
 

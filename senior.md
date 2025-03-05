@@ -184,11 +184,14 @@
     - Soluções: [C++](solutions/NS_2019_F1_Chuva.cpp)
     - [Casos de teste](test_set/2019f1p2_chuva.zip)
 
-#### Fase 2
+#### [Fase 2](provas/ProvaOBI2019_f2pu.pdf)
 
-- Matriz super-legal: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f2/matriz/)
-- Robo marciano: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f2/robo/)
-- Supermercado: [OBI](https://olimpiada.ic.unicamp.br/pratique/pu/2019/f2/supermercado/)
+1. [Robo marciano](https://neps.academy/br/exercise/477)
+    - [Casos de teste](test_set/2019f2pu_robo.zip)
+2. [Matriz super-legal](https://neps.academy/br/exercise/473)
+    - [Casos de teste](test_set/2019f2p1_matriz.zip)
+3. [Supermercado](https://neps.academy/br/exercise/476)
+    - [Casos de teste](test_set/2019f2p2_super.zip)
 
 #### Fase 3
 
