@@ -315,11 +315,14 @@
 3. [Quadrado Mágico](https://neps.academy/br/exercise/2068)
     - [Casos de teste](test_set/2022f1pj_magico.zip)
 
-#### Fase 2
+#### [Fase 2](provas/ProvaOBI2022_f2pj.pdf)
 
-- Troféu: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f2pj.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2pj_trofeu/trofeu_cpp.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2pj_trofeu/trofeu_py3.py))
-- Caminho: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f2pj.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2pj_caminho/caminho_cpp.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2pj_caminho/ranido_py3.py))
-- Pirâmide: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f2pj.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2pj_piramide/piramide_cpp2.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2pj_piramide/ranido_py3.py))
+1. [Troféu](https://neps.academy/br/exercise/2126)
+    - [Casos de teste](test_set/2022f2pj_trofeu.zip)
+2. [Caminho](https://neps.academy/br/exercise/2127)
+    - [Casos de teste](test_set/2022f2pj_caminho.zip)
+3. [Pirâmide](https://neps.academy/br/exercise/2128)
+    - [Casos de teste](test_set/2022f2pj_piramide.zip)
 
 #### Fase 3
 

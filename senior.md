@@ -307,12 +307,16 @@
     - Soluções: [C](solutions/N2_2022_F1_Chuva.c), [C++](solutions/N2_2022_F1_Chuva.cpp), [Python](solutions/N2_2022_F1_Chuva.py)
     - [Casos de teste](test_set/2022f1p2_chuva.zip)
 
-#### Fase 2
+#### [Fase 2](provas/ProvaOBI2022_f2ps.pdf)
 
-- Tanque de combustível: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f2ps.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2p1_tanque/tanque_cpp.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2p1_tanque/tanque_py.py))
-- Pirâmide: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f2ps.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2pj_piramide/yan_cpp.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2pj_piramide/piramide.java))
-- Subcadeias: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f2ps.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2p2_subcadeias/yan_cpp.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2p2_subcadeias/yan_py3.py))
-- Viagem: [OBI](https://olimpiada.ic.unicamp.br/static/extras/obi2022/provas/ProvaOBI2022_f2ps.pdf) (solução: [cpp](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2p2_viagem/yan_cpp.cpp), [py](https://olimpiada.ic.unicamp.br/static/extras/obi2022/solucoes/2022f2p2_viagem/viagem_cpp.cpp))
+1. [Tanque de combustível](https://neps.academy/br/exercise/2129)
+    - [Casos de teste](test_set/2022f2p1_tanque.zip)
+2. [Pirâmide](https://neps.academy/br/exercise/2128)
+    - [Casos de teste](test_set/2022f2pj_piramide.zip)
+3. [Subcadeias](https://neps.academy/br/exercise/2131)
+    - [Casos de teste](test_set/2022f2p2_subcadeias.zip)
+4. [Viagem](https://neps.academy/br/exercise/2132)
+    - [Casos de teste](test_set/2022f2p2_viagem.zip)
 
 #### Fase 3
 
