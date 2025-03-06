@@ -344,6 +344,18 @@
     - Soluções: [C](solutions/NS_2023_F1_Toupeira.c), [C++](solutions/NS_2023_F1_Toupeira.cpp), [Python](solutions/NS_2023_F1_Toupeira.py)
     - [Casos de teste](test_set/2023f1ps_toupeira.zip)
 
+#### [Fase 2 - Turno A](provas/ProvaOBI2023_f2ps.pdf)
+
+1. [Prefixo](https://neps.academy/br/exercise/2437)
+    - [Casos de teste](test_set/2023f2ps_prefixo.zip)
+2. [Grupos de Trabalho](https://neps.academy/br/exercise/2436)
+    - [Casos de teste](test_set/2023f2ps_grupos.zip)
+3. [Intervalo Distinto](https://neps.academy/br/exercise/2438)
+    - Soluções: [C](solucoes/N2_2023_F2_Intervalo.c), [C++](solucoes/N2_2023_F2_Intervalo.cpp)
+    - [Casos de teste](test_set/2023f2ps_distintos.zip)
+4. [Barcos da Nlogônia](https://neps.academy/br/exercise/2439)
+    - [Casos de teste](test_set/2023f2ps_barcos.zip)
+
 
 ### 2024
 
