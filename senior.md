@@ -410,4 +410,3 @@
     - [Casos de teste](test_set/2024f3p2_burocracia.zip)
 5. [Jogo de Pratos](https://neps.academy/br/exercise/2932)
     - [Casos de teste](test_set/2024f3p2_pratos.zip)
-

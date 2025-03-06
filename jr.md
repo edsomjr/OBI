@@ -391,11 +391,11 @@
 
 #### [Fase 3](provas/ProvaOBI2024_f3pj.pdf)
 
-1. Cadeado
+1. [Cadeado](https://neps.academy/br/exercise/2888)
     - [Casos de teste](test_set/2024f3pj_cadeado.zip)
-2. Amigos
+2. [Amigos](https://neps.academy/br/exercise/2922)
     - [Casos de teste](test_set/2024f3pj_amigos.zip)
-3. Entrevistas de emprego
+3. [Entrevistas de emprego](https://neps.academy/br/exercise/2924)
     - [Casos de teste](test_set/2024f3pj_entrevistas.zip)
-4. Hotel Nlogônia
+4. [Hotel Nlogônia](https://neps.academy/br/exercise/2925)
     - [Casos de teste](test_set/2024f3pj_hotel.zip)
