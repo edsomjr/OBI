@@ -262,16 +262,17 @@
 4. [Baralho](https://neps.academy/br/exercise/1489)
     - [Casos de teste](test_set/2021f1ps_tempo.zip)
 
-#### Fase 2
 
-- Lista palíndroma: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2021/f2/lista/)
-- Mínimo e máximo: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2021/f2/minmax/)
-- Passatempo: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2021/f2/passatempo/)
-- Poligrama: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2021/f2/poligrama/)
-- Retângulo: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2021/f2/retangulo/)
-- Sanduíche: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2021/f2/sanduiche/)
-- Senha da Vó Zinha: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2021/f2/senha/)
-- Duplas de tênis: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2021/f2/tenis/)
+#### [Fase 2 - Turno A](provas/ProvaOBI2021_f2ps.pdf)
+
+1. [Duplas de tênis](https://neps.academy/br/exercise/1653)
+    - [Casos de teste](test_set/2021f2pj_tenis.zip)
+2. [Passatempo](https://neps.academy/br/exercise/1658)
+    - [Casos de teste](test_set/2021f2p2_passatempo.zip)
+3. [Sanduíche](https://neps.academy/br/exercise/1659)
+    - [Casos de teste](test_set/2021f2p2_sanduiche.zip)
+4. [Retângulo](https://neps.academy/br/exercise/1657)
+    - [Casos de teste](test_set/2021f2p1_retângulo.zip)
 
 #### Fase 3
 

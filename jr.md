@@ -274,16 +274,16 @@
 3. [Torneio de tênis](https://neps.academy/br/exercise/1481)
     - [Casos de teste](test_set/2021f1pj_torneio.zip)
 
-#### Fase 2
+#### [Fase 2 - Turno A](provas/ProvaOBI2021_f2pj.pdf)
 
-- Anagrama: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2021/f2/anagrama/)
-- Média ou mediana: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2021/f2/media/)
-- Pangrama: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2021/f2/pangrama/)
-- Pesquisa de preços: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2021/f2/pesquisa/)
-- Potência: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2021/f2/potencia/)
-- Recorde: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2021/f2/recorde/)
-- Robô: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2021/f2/robo/)
-- Duplas de tênis: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2021/f2/tenis/)
+1. [Duplas de tênis](https://neps.academy/br/exercise/1653)
+    - [Casos de teste](test_set/2021f2pj_tenis.zip)
+2. [Pangrama](https://neps.academy/br/exercise/1654)
+    - [Casos de teste](test_set/2021f2pj_pangrama.zip)
+3. [Robô](https://neps.academy/br/exercise/1655)
+    - [Casos de teste](test_set/2021f2pj_robo.zip)
+4. [Média e mediana](https://neps.academy/br/exercise/1656)
+    - [Casos de teste](test_set/2021f2pj_media.zip)
 
 #### Fase 3
 
