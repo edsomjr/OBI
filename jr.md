@@ -247,11 +247,14 @@
 3. [Camisetas da Olimpíada](https://neps.academy/br/exercise/980)
     - [Casos de teste](test_set/2020f1pj_camisetas.zip)
 
-#### Fase 2
+#### [Fase 2](provas/ProvaOBI2020_f2pj.pdf)
 
-- Palavras Cruzadas: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2020/f2/cruzadas/)
-- Dona Lesma: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2020/f2/lesma/)
-- Jogo dos Pinos: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2020/f2/pinos/)
+1. [Dona Lesma](https://neps.academy/br/exercise/1018)
+    - [Casos de teste](test_set/2020f2pj_lesma.zip)
+2. [Palavras Cruzadas](https://neps.academy/br/exercise/1013)
+    - [Casos de teste](test_set/2020f2pj_cruzadas.zip)
+3. [Jogo dos Pinos](https://neps.academy/br/exercise/1015)
+    - [Casos de teste](test_set/2020f2pj_pinos.zip)
 
 #### Fase 3
 

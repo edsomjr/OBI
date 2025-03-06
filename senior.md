@@ -229,12 +229,17 @@
 4. [Música para Todos](https://neps.academy/br/exercise/1084)
     - [Casos de teste](test_set/2020f1ps_musica.zip)
 
-#### Fase 2
+#### [Fase 2](provas/ProvaOBI2020_f2pu.pdf)
 
-- Caixeiro Viajante: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f2/caixeiro/)
-- Estrada: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f2/estrada/)
-- Dona Formiga: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f2/formiga/)
-- Fotografia: [OBI](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f2/fotografia/)
+1. [Dona Formiga](https://neps.academy/br/exercise/1008)
+    - [Casos de teste](test_set/2020f2p1_formiga.zip)
+    - [Casos de teste](test_set/2020f2p1_formiga2.zip)
+2. [Fotografia](https://neps.academy/br/exercise/1021)
+    - [Casos de teste](test_set/2020f2p2_fotografia.zip)
+3. [Caixeiro Viajante](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f2/caixeiro/)
+    - [Casos de teste](test_set/2020f2ps_caixeiro.zip)
+4. [Estrada](https://neps.academy/br/exercise/1022)
+    - [Casos de teste](test_set/2020f2p1_estrada.zip)
 
 #### Fase 3
 
