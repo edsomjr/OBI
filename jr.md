@@ -356,6 +356,15 @@
 3. [Grupos de Trabalho](https://neps.academy/br/exercise/2436)
     - [Casos de teste](test_set/2023f2pj_grupos.zip)
 
+#### [Fase 2 - Turno B](provas/ProvaOBI2023_f2pj-B.pdf)
+
+1. [Brincadeira de Roda](https://neps.academy/br/exercise/2621)
+    - [Casos de teste](test_set/2023f2pj_roda.zip)
+2. [UPA](https://neps.academy/br/exercise/2622)
+    - [Casos de teste](test_set/2023f2pj_upa.zip)
+3. [Empresa](https://neps.academy/br/exercise/2623)
+    - [Casos de teste](test_set/2023f2pj_empresa.zip)
+
 ### 2024
 
 #### [Fase 1](provas/ProvaOBI2024_f1pj.pdf)

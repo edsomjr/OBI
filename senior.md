@@ -356,6 +356,16 @@
 4. [Barcos da Nlogônia](https://neps.academy/br/exercise/2439)
     - [Casos de teste](test_set/2023f2ps_barcos.zip)
 
+#### [Fase 2 - Turno B](provas/ProvaOBI2023_f2ps-B.pdf)
+
+1. [Brincadeira de Roda](https://neps.academy/br/exercise/2621)
+    - [Casos de teste](test_set/2023f2ps_roda.zip)
+2. [UPA](https://neps.academy/br/exercise/2622)
+    - [Casos de teste](test_set/2023f2ps_upa.zip)
+3. [Corrida de Rua](https://neps.academy/br/exercise/2624)
+    - [Casos de teste](test_set/2023f2ps_corrida.zip)
+4. [Fortunas](https://neps.academy/br/exercise/2626)
+    - [Casos de teste](test_set/2023f2ps_fortunas.zip)
 
 ### 2024
 
