@@ -274,7 +274,7 @@
 3. [Torneio de tênis](https://neps.academy/br/exercise/1481)
     - [Casos de teste](test_set/2021f1pj_torneio.zip)
 
-#### [Fase 2 - Turno A](provas/ProvaOBI2021_f2pj.pdf)
+#### [Fase 2 - Turno A](provas/ProvaOBI2021_f2bpj.pdf)
 
 1. [Duplas de tênis](https://neps.academy/br/exercise/1653)
     - [Casos de teste](test_set/2021f2pj_tenis.zip)
@@ -284,6 +284,17 @@
     - [Casos de teste](test_set/2021f2pj_robo.zip)
 4. [Média e mediana](https://neps.academy/br/exercise/1656)
     - [Casos de teste](test_set/2021f2pj_media.zip)
+
+#### [Fase 2 - Turno B](provas/ProvaOBI2021_f2pj.pdf)
+
+1. [Recorde](https://neps.academy/br/exercise/1720)
+    - [Casos de teste](test_set/2021f2bpj_recorde.zip)
+2. [Anagrama](https://neps.academy/br/exercise/1721)
+    - [Casos de teste](test_set/2021f2bpj_anagrama.zip)
+3. [Potência](https://neps.academy/br/exercise/1722) 
+    - [Casos de teste](test_set/2021f2bpj_potencia.zip)
+4. [Pesquisa de preços](https://neps.academy/br/exercise/1723)
+    - [Casos de teste](test_set/2021f2bpj_pesquisa.zip)
 
 #### Fase 3
 

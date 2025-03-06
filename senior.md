@@ -262,7 +262,6 @@
 4. [Baralho](https://neps.academy/br/exercise/1489)
     - [Casos de teste](test_set/2021f1ps_tempo.zip)
 
-
 #### [Fase 2 - Turno A](provas/ProvaOBI2021_f2ps.pdf)
 
 1. [Duplas de tênis](https://neps.academy/br/exercise/1653)
@@ -273,6 +272,17 @@
     - [Casos de teste](test_set/2021f2p2_sanduiche.zip)
 4. [Retângulo](https://neps.academy/br/exercise/1657)
     - [Casos de teste](test_set/2021f2p1_retângulo.zip)
+
+#### [Fase 2 - Turno B](provas/ProvaOBI2021_f2bps.pdf)
+
+1. [Mínimo e máximo](https://neps.academy/br/exercise/1728)
+    - [Casos de teste](test_set/2021f2bps_minimax.zip)
+2. [Lista palíndroma](https://neps.academy/br/exercise/1725)
+    - [Casos de teste](test_set/2021f2bp1_lista.zip)
+3. [Poligrama](https://neps.academy/br/exercise/1726)
+    - [Casos de teste](test_set/2021f2bp2_poligrama.zip)
+4. [Senha da Vó Zinha](https://neps.academy/br/exercise/1727)
+    - [Casos de teste](test_set/2021f2bp2_senha.zip)
 
 #### Fase 3
 
