@@ -80,10 +80,14 @@
 
 ### 2013
 
-#### Fase 1
+#### [Fase 1](provas/ProvaOBI2013_f1pj.pdf)
 
-- Saldo do Vovô: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2013/f1/saldo/)
-- Tomadas: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2013/f1/tomadas/)
+1. [Saldo do Vovô](https://neps.academy/br/exercise/332)
+    - [Casos de teste](test_set/2013f1pj_saldo.zip)
+2. [Tomadas](https://neps.academy/br/exercise/219)
+    - [Casos de teste](test_set/2013f1pj_tomadas.zip)
+3. [Capital](https://neps.academy/br/exercise/499)
+    - [Casos de teste](test_set/2013f1pj_capital.zip)
 
 #### Fase 2
 
