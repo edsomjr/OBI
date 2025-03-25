@@ -82,7 +82,7 @@
 5. [Nova avenida](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f1/avenida/)
     - [Casos de teste](test_set/2016f1pu_avenida.zip)
 
-#### [Fase 1](provas/ProvaOBI2016_f2pu.pdf)
+#### [Fase 2](provas/ProvaOBI2016_f2pu.pdf)
 
 1. [Pô, que mão](https://neps.academy/br/exercise/8)
     - [Casos de teste](test_set/2016f2p2_pokemon.zip)
