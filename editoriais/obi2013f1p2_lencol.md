@@ -17,6 +17,12 @@ Se algum dos quatro pedaços resultantes puder se recortado para formar o lenço
 >! ```c
 >! int ok(int a, int b)
 >! { return 1; }
+>!```
+
+```c
+int ok(int a, int b)
+{ return 1; }
+```
 
 <details>
     <summary><b>Solução em C</b></summary>
