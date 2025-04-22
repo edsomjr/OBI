@@ -14,16 +14,6 @@ Ao costurar os dois pedaços, uma das dimensões se tornará a soma dos lados co
 
 Se algum dos quatro pedaços resultantes puder se recortado para formar o lençol, a resposta será `S`; caso contrário, a resposta será `N`. Esta solução tem complexidade $O(1)$.
 
->! ```c
->! int ok(int a, int b)
->! { return 1; }
->!```
-
-```c
-int ok(int a, int b)
-{ return 1; }
-```
-
 <details>
     <summary><b>Solução em C</b></summary>
 
@@ -101,7 +91,7 @@ int main()
 <details>
     <summary><b>Solução em Python</b></summary>
 
-```Python
+```python
 def ok(b, h, A, B):
     return (A <= b and B <= h) or (A <= h and B <= b)
 
