@@ -91,7 +91,7 @@ int main()
 <details>
     <summary><b>Solução em Python</b></summary>
 
-```python
+```Python
 def ok(b, h, A, B):
     return (A <= b and B <= h) or (A <= h and B <= b)
 
@@ -115,7 +115,8 @@ if __name__ == '__main__':
 </details>
 
 
-__Solução em Java__:
+<details>
+    <summary><b>Solução em Java</b></summary>
 
 ```java
 import java.util.Scanner;
@@ -165,3 +166,4 @@ public class Main
     }
 }
 ```
+</details>
