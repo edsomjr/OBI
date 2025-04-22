@@ -14,8 +14,9 @@ Ao costurar os dois pedaços, uma das dimensões se tornará a soma dos lados co
 
 Se algum dos quatro pedaços resultantes puder se recortado para formar o lençol, a resposta será `S`; caso contrário, a resposta será `N`. Esta solução tem complexidade $O(1)$.
 
-__Solução em C__:
->! ```C
+<details>
+    <summary>__Solução em C__:</summary>
+ ```C
 #include <stdio.h>
 
 int ok(int b, int h, int A, int B)
@@ -48,3 +49,4 @@ int main()
     return 0;
 }
 ```
+</details>
