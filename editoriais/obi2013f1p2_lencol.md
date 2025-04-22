@@ -118,52 +118,52 @@ if __name__ == '__main__':
 <details>
     <summary><b>Solução em Java</b></summary>
 
-```java
-import java.util.Scanner;
+    ```java
+    import java.util.Scanner;
 
-public class Main
-{
-    private static boolean ok(int b, int h, int A, int B)
+    public class Main
     {
-        return ((A <= b) && (B <= h)) || ((A <= h) && (B <= b));
-    }
-
-    private static int min(int a, int b)
-    {
-        if (a <= b)
-            return a;
-
-        return b;
-    }
-
-    private static boolean solve(int A1, int B1, int A2, int B2, int A, int B)
-    {
-        return ok(A1, B1, A, B) || ok(A2, B2, A, B)   // Uma folha é suficiente
-            || ok(A1 + A2, min(B1, B2), A, B)         // Primeira fixa, segunda à direita
-            || ok(A1 + B2, min(B1, A2), A, B)         // Primeira fixa, segunda à direita rotacionada
-            || ok(min(A1, A2), B1 + B2, A, B)         // Primeira fixa, segunda acima
-            || ok(min(A1, B2), B1 + A2, A, B);        // Primeira fixa, segunda acima rotacionada
-    }
-
-    public static void main(String[] args)
-    {
-        Scanner scanner = new Scanner(System.in);
-
-        int A1 = scanner.nextInt();
-        int B1 = scanner.nextInt();
-        int A2 = scanner.nextInt();
-        int B2 = scanner.nextInt();
-        int A = scanner.nextInt();
-        int B = scanner.nextInt();
-
-        if (solve(A1, B1, A2, B2, A, B))
+        private static boolean ok(int b, int h, int A, int B)
         {
-            System.out.println('S');
-        } else
+            return ((A <= b) && (B <= h)) || ((A <= h) && (B <= b));
+        }
+
+        private static int min(int a, int b)
         {
-            System.out.println('N');
+            if (a <= b)
+                return a;
+
+            return b;
+        }
+
+        private static boolean solve(int A1, int B1, int A2, int B2, int A, int B)
+        {
+            return ok(A1, B1, A, B) || ok(A2, B2, A, B)   // Uma folha é suficiente
+                || ok(A1 + A2, min(B1, B2), A, B)         // Primeira fixa, segunda à direita
+                || ok(A1 + B2, min(B1, A2), A, B)         // Primeira fixa, segunda à direita rotacionada
+                || ok(min(A1, A2), B1 + B2, A, B)         // Primeira fixa, segunda acima
+                || ok(min(A1, B2), B1 + A2, A, B);        // Primeira fixa, segunda acima rotacionada
+        }
+
+        public static void main(String[] args)
+        {
+            Scanner scanner = new Scanner(System.in);
+
+            int A1 = scanner.nextInt();
+            int B1 = scanner.nextInt();
+            int A2 = scanner.nextInt();
+            int B2 = scanner.nextInt();
+            int A = scanner.nextInt();
+            int B = scanner.nextInt();
+
+            if (solve(A1, B1, A2, B2, A, B))
+            {
+                System.out.println('S');
+            } else
+            {
+                System.out.println('N');
+            }
         }
     }
-}
-```
+    ```
 </details>
