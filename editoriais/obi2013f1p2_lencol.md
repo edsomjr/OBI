@@ -8,7 +8,7 @@ costuras possíveis:
 1. unir $A_2\times B_2$ à direita de $A_1\times B_1$;
 1. unir $B_2\times A_2$ à direita de $A_1\times B_1$;
 1. unir $A_2\times B_2$ acima de $A_1\times B_1$;
-1. unir $B_2\times A_2$ acima de $A_1\times B_1$;
+1. unir $B_2\times A_2$ acima de $A_1\times B_1$.
 
 Ao costurar os dois pedaços, uma das dimensões se tornará a soma dos lados correspondentes e a outra dimensão poderá ter, no máximo, tamanho igual ao menor dos tamanhos entre os lados correspondentes. Por exemplo, na primeira costura, obteremos um pedaço de tecido com base igual a $A_1 + A_2$, e cuja altura será igual a $\min(B_1, B_2)$. 
 
@@ -17,7 +17,7 @@ Se algum dos quatro pedaços resultantes puder se recortado para formar o lenço
 <details>
     <summary><b>Solução em C</b></summary>
 
-```C
+```c
 #include <stdio.h>
 
 int ok(int b, int h, int A, int B)
@@ -56,7 +56,7 @@ int main()
 <details>
     <summary><b>Solução em C++</b></summary>
 
-```Cpp
+```cpp
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -91,7 +91,7 @@ int main()
 <details>
     <summary><b>Solução em Python</b></summary>
 
-```Python
+```python
 def ok(b, h, A, B):
     return (A <= b and B <= h) or (A <= h and B <= b)
 
@@ -118,7 +118,7 @@ if __name__ == '__main__':
 <details>
     <summary><b>Solução em Java</b></summary>
 
-```Java
+```java
 import java.util.Scanner;
 
 public class Main
