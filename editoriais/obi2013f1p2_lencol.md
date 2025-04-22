@@ -115,10 +115,9 @@ if __name__ == '__main__':
 </details>
 
 
-<details>
-    <summary><b>Solução em Java</b></summary>
+__Solução em Java__:
 
-<pre><code lang="java">
+```java
 import java.util.Scanner;
 
 public class Main
@@ -165,6 +164,4 @@ public class Main
         }
     }
 }
-</code></pre>
-
-</details>
+```
