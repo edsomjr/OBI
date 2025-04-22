@@ -1,21 +1,21 @@
 ## Lençol
 
-Há dois casos a serem considerados. O primeiro caso consiste em avaliar se é possível recortar o lençol a partir de apenas um dos dois pedaços de tecido. Se ambas as dimensões de um dos pedaços forem maiores ou iguais a $A$ e $B$, a resposta será `S`. Atenção: é preciso considerar uma possível rotação do pedaço, ou seja, se considerarmos o pedaço $A_1 \times B1$, é preciso avaliar também $B1\times A_1$.
+Há dois casos a serem considerados. O primeiro caso consiste em avaliar se é possível recortar o lençol a partir de apenas um dos dois pedaços de tecido. Se ambas as dimensões de um dos pedaços forem maiores ou iguais a $A$ e $B$, a resposta será `S`. Atenção: é preciso considerar uma possível rotação do pedaço, ou seja, se considerarmos o pedaço $A_1 \times B_1$, é preciso avaliar também $B_1\times A_1$.
 
-No segundo caso é preciso costurar os dois pedaços antes de fazer o corte. Se fixarmos o primeiro pedaço na orientação $A_1\times B1$, há quatro
+No segundo caso é preciso costurar os dois pedaços antes de fazer o corte. Se fixarmos o primeiro pedaço na orientação $A_1\times B_1$, há quatro
 costuras possíveis:
 
-1. unir $A_2\times B2$ à direita de $A_1\times B1$;
-1. unir $B2\times A_2$ à direita de $A_1\times B1$;
-1. unir $A_2\times B2$ acima de $A_1\times B1$;
-1. unir $B2\times A_2$ acima de $A_1\times B1$;
+1. unir $A_2\times B_2$ à direita de $A_1\times B_1$;
+1. unir $B_2\times A_2$ à direita de $A_1\times B_1$;
+1. unir $A_2\times B_2$ acima de $A_1\times B_1$;
+1. unir $B_2\times A_2$ acima de $A_1\times B_1$;
 
-Ao costurar os dois pedaços, uma das dimensões se tornará a soma dos lados correspondentes e a outra dimensão poderá ter, no máximo, tamanho igual ao menor dos tamanhos entre os lados correspondentes. Por exemplo, na primeira costura, obteremos um pedaço de tecido com base igual a $A_1 + A_2$, e cuja altura será igual a $\min(B1, B2)$. 
+Ao costurar os dois pedaços, uma das dimensões se tornará a soma dos lados correspondentes e a outra dimensão poderá ter, no máximo, tamanho igual ao menor dos tamanhos entre os lados correspondentes. Por exemplo, na primeira costura, obteremos um pedaço de tecido com base igual a $A_1 + A_2$, e cuja altura será igual a $\min(B_1, B_2)$. 
 
 Se algum dos quatro pedaços resultantes puder se recortado para formar o lençol, a resposta será `S`; caso contrário, a resposta será `N`. Esta solução tem complexidade $O(1)$.
 
 <details>
-    <summary><b>Solução em C:</b></summary>
+    <summary><b>Solução em C</b></summary>
 
 ```C
 #include <stdio.h>
@@ -54,7 +54,7 @@ int main()
 
 
 <details>
-    <summary><b>Solução em C++:</b></summary>
+    <summary><b>Solução em C++</b></summary>
 
 ```Cpp
 #include <bits/stdc++.h>
@@ -89,7 +89,7 @@ int main()
 
 
 <details>
-    <summary><b>Solução em Python:</b></summary>
+    <summary><b>Solução em Python</b></summary>
 
 ```Python
 def ok(b, h, A, B):
@@ -116,7 +116,7 @@ if __name__ == '__main__':
 
 
 <details>
-    <summary><b>Solução em Java:</b></summary>
+    <summary><b>Solução em Java</b></summary>
 
 ```Java
 import java.util.Scanner;
