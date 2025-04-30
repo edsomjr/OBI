@@ -91,7 +91,7 @@ int main()
 <details>
     <summary><b>Solução em Python</b></summary>
 
-```Python
+```python
 def ok(b, h, A, B):
     return (A <= b and B <= h) or (A <= h and B <= b)
 
