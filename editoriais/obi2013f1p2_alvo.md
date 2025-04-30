@@ -2,12 +2,12 @@
 
 Há duas possíveis soluções para este problema. A primeira delas consiste em um algoritmo _online_ que, para cada tiro, identifica sua pontuação antes de avaliar o próximo tiro. Os raios dos círculos já são informados na entrada em ordem crescente, mas para evitar o uso de variáveis em ponto flutuante, é preciso pré-processar a sequência de raios $r_k$ para obter uma nova sequência $s_k$ tal que $s_k = r_k^2$. 
 
-Agora, se o tiro atingiu o ponto $(x, y)$, sua pontuação pode ser obtida por meio de uma busca binária do valor $x^2 + y^2$ na sequência $s_k$. Se $j$ é o índice do menor elemento de $s_k$ tal que $s_j \geq x^2 + y^2$, então este tiro vale $C - j - 1$ pontos. São $O(T)$ tiros, e cada um pode ser processado em $O(\log C)$, então esta solução em complexidade $O(T\log C)$. Ela está implementada no código C++ abaixo.
+Agora, se o tiro atingiu o ponto $(x, y)$, sua pontuação pode ser obtida por meio de uma busca binária do valor $x^2 + y^2$ na sequência $s_k$. Se $j$ é o índice do menor elemento de $s_k$ tal que $s_j \geq x^2 + y^2$, então este tiro vale $C - j - 1$ pontos. São $O(T)$ tiros e cada um pode ser processado em $O(\log C)$, então esta solução em complexidade $O(T\log C)$. Ela está implementada no código C++ abaixo.
 
 Uma segunda solução pode ser obtida por meio de um algoritmo _offline_ no qual os tiros serão pré-processados, todos de uma vez, e as pontuações serão obtidas em ordem distinta da entrada. Além da geração da sequência $s_k$, é preciso gerar uma sequência $d_k$, em ordem não-decrescente, das distâncias ao quadrado de cada tiro em relação à origem, isto é, para cada $j = 1, 2, \ldots, T$, existe um $i\in [1, T]$ tal que
-$d_j = x_i^2 + y_i^2$. Agora, para cada elemento da sequência $d_k$, ele deve ser confrontado com o próximo elemento de $s_k$ ainda não removido:
+$d_j = x_i^2 + y_i^2$. Agora, para cada elemento $d_i$ da sequência $d_k$, ele deve ser confrontado com o primeiro elemento $s_j$ da sequência $s_k$:
 
-1. se $d_i \leq s_j$, então o tiro cuja distância ao quadrado em relação à origem é $d_i$ vale $|s_k|$ pontos - avance para o próximo elemento de $d_k$;
+1. se $d_i \leq s_j$, então o tiro associado a $d_i$ vale $|s_k|$ pontos - avance para o elemento $d_{i + 1}$, se existir;
 2. caso contrário, remova $s_j$ da sequência $s_k$ e reavalie $d_i$.
 
 A ordenação da sequência $d_k$ pode ser feita em $O(T\log T)$ e o processamento dos tiros tem complexidade $O(T + C)$, portanto esta solução tem complexidade $O(C + T\log T)$. Ele está implementada no código C abaixo.
