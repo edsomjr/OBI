@@ -68,18 +68,18 @@
 
 #### [Fase 1](provas/ProvaOBI2016_f1pu.pdf)
 
-1. [Chaves](https://neps.academy/br/exercise/56)
+1. [Chaves](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2016f1p2_chaves)
     - Soluções: [C++](solutions/NS_2016_F1_Chaves.cpp))
     - [Casos de teste](test_set/2016f1p2_chaves.zip)
-2. [Chuva](https://neps.academy/br/exercise/58)
+2. [Chuva](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2016f1p2_chuva)
     - [Casos de teste](test_set/2016f1p2_chuva.zip)
-3. [Lâmpadas do hotel](https://neps.academy/br/exercise/59)
+3. [Lâmpadas do hotel](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2016f1p2_hotel)
     - Soluções: [C++](solutions/NS_2016_F1_Lampadas_do_hotel.cpp))
     - [Casos de teste](test_set/2016f1p2_hotel.zip)
-4. [Direção](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f1/direcao/)
+4. [Direção](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2016f1pu_direcao)
     - Soluções: [C++](solutions/NS_2016_F1_Direcao.cpp))
     - [Casos de teste](test_set/2016f1pu_direcao.zip)
-5. [Nova avenida](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f1/avenida/)
+5. [Nova avenida](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2016f1pu_avenida)
     - [Casos de teste](test_set/2016f1pu_avenida.zip)
 
 #### [Fase 2](provas/ProvaOBI2016_f2pu.pdf)
