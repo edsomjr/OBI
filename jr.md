@@ -119,20 +119,20 @@
 
 #### [Fase 1](provas/ProvaOBI2015_f1pj.pdf)
 
-1. [Móbile](https://neps.academy/br/exercise/50)
+1. [Móbile](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2015f1pj_mobile)
     - [Casos de teste](test_set/2015f1pj_mobile.zip)
-2. [Fita Colorida](https://neps.academy/br/exercise/49)
+2. [Fita Colorida](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2015f1pj_fita)
     - [Casos de teste](test_set/2015f1pj_fita.zip)
 3. [Prêmio do Milhão](https://neps.academy/br/exercise/48)
-    - [Casos de teste](test_set/2015f1pj_premio.zip)
+    - [Casos de teste](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2015f1pj_premio)
 
 #### [Fase 2](provas/ProvaOBI2015_f2pj.pdf)
 
-1. [Impedido!](https://neps.academy/br/exercise/46)
+1. [Impedido!](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2015f2pj_impedido)
     - [Casos de teste](test_set/2015f2pj_impedido.zip)
-2. [Torre](https://neps.academy/br/exercise/45)
+2. [Torre](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2015f2pj_torre)
     - [Casos de teste](test_set/2015f2pj_torre.zip)
-3. [Código](https://neps.academy/br/exercise/47)
+3. [Código](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2015f2pj_codigo)
     - [Casos de teste](test_set/2015f2pj_codigo.zip)
 
 ### 2016
