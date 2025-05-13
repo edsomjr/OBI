@@ -99,20 +99,20 @@
 
 #### [Fase 1](provas/ProvaOBI2014_f1pj.pdf)
 
-1. [Flíper](https://neps.academy/br/exercise/87)
+1. [Flíper](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2014f1pj_fliper)
     - [Casos de teste](test_set/2014f1pj_fliper.zip)
-2. [Gangorra](https://neps.academy/br/exercise/260)
+2. [Gangorra](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2014f1pj_gangorra)
     - [Casos de teste](test_set/2014f1pj_gangorra.zip)
-3. [Fila](https://neps.academy/br/exercise/384)
+3. [Fila](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2014f1pj_fila)
     - [Casos de teste](test_set/2014f1pj_fila.zip)
 
 #### [Fase 2](provas/ProvaOBI2014_f2pj.pdf)
 
-1. [Loteria](https://neps.academy/br/exercise/491)
+1. [Loteria](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2014f2pj_loteria)
     - [Casos de teste](test_set/2014f2pj_loteria.zip)
-2. [Sinuca](https://neps.academy/br/exercise/492)
+2. [Sinuca](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2014f2pj_sinuca)
     - [Casos de teste](test_set/2014f2pj_sinuca.zip)
-3. [Passa Bolinha](https://neps.academy/br/exercise/258)
+3. [Passa Bolinha](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2014f2pj_bolinha)
     - [Casos de teste](test_set/2014f2pj_bolinha.zip)
 
 ### 2015
