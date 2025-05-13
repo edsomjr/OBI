@@ -139,12 +139,12 @@
 
 #### [Fase 1](provas/ProvaOBI2016_f1pj.pdf)
 
-1. [Jogo de par ou ímpar](https://neps.academy/br/exercise/51)
-    - [Casos de teste](test_set/2016f1pj_jogo.zip)
-2. [Lâmpadas](https://neps.academy/br/exercise/52)
-    - [Casos de teste](test_set/2016f1pj_lampadas.zip)
-3. [Plantação de Morangos](https://neps.academy/br/exercise/53)
+1. [Plantação de Morango](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2016f1pj_morango)
     - [Casos de teste](test_set/2016f1pj_morango.zip)
+2. [Jogo de par ou ímpar](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2016f1pj_jogo)
+    - [Casos de teste](test_set/2016f1pj_jogo.zip)
+3. [Lâmpadas](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2016f1pj_lampadas)
+    - [Casos de teste](test_set/2016f1pj_lampadas.zip)
 
 #### [Fase 1](provas/ProvaOBI2016_f2pj.pdf)
 
