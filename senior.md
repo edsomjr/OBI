@@ -84,19 +84,19 @@
 
 #### [Fase 2](provas/ProvaOBI2016_f2pu.pdf)
 
-1. [Pô, que mão](https://neps.academy/br/exercise/8)
+1. [Pô, que mão](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2016f2p2_pokemon)
     - [Casos de teste](test_set/2016f2p2_pokemon.zip)
-    - Soluções: [C++](solutions/NS_2016_F2_Po_que_mao.cpp))
-2. [Jardim de Infância](https://neps.academy/br/exercise/9)
+    - Soluções: [C++](solutions/NS_2016_F2_Po_que_mao.cpp)
+2. [Jardim de Infância](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2016f2p2_jardim)
     - [Casos de teste](test_set/2016f2p2_jardim.zip)
-    - Soluções: [C++](solutions/NS_2016_F2_Jardim_de_Infancia.cpp))
-3. [Times](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/times/)
+    - Soluções: [C++](solutions/NS_2016_F2_Jardim_de_Infancia.cpp)
+3. [Times](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2016f2ps_times)
     - [Casos de teste](test_set/2016f2pu_times.zip)
-    - Soluções: [C++](solutions/NS_2016_F2_Times.cpp))
-4. [Arco e flecha](https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/arco-online/)
+    - Soluções: [C++](solutions/NS_2016_F2_Times.cpp)
+4. [Arco e flecha](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2016f2ps_arco_online)
     - [Casos de teste](test_set/2016f2pu_arco_online.zip)
-    - Soluções: [C++](solutions/NS_2016_F2_Arco_e_Flecha.cpp))
-5. [Ciclovias](https://neps.academy/br/exercise/12)
+    - Soluções: [C++](solutions/NS_2016_F2_Arco_e_Flecha.cpp)
+5. [Ciclovias](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2016f2p2_ciclovias)
     - [Casos de teste](test_set/2016f2p2_ciclovias.zip)
 
 ### 2017

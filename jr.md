@@ -146,15 +146,15 @@
 3. [Lâmpadas](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2016f1pj_lampadas)
     - [Casos de teste](test_set/2016f1pj_lampadas.zip)
 
-#### [Fase 1](provas/ProvaOBI2016_f2pj.pdf)
+#### [Fase 2](provas/ProvaOBI2016_f2pj.pdf)
 
-1. [Medalhas](https://neps.academy/br/exercise/2)
+1. [Medalhas](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2016f2p1_medalhas)
     - [Casos de teste](test_set/2016f2p1_medalhas.zip)
-2. [Caverna de Ordinskaya](https://neps.academy/br/exercise/4)
-    - [Casos de teste](test_set/2016f2p1_caverna.zip)
-3. [Gincana](https://neps.academy/br/exercise/3)
+2. [Gincana](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2016f2pj_gincana)
     - [Casos de teste](test_set/2016f2pj_gincana.zip)
-4. [Fuga em helicóptero](https://neps.academy/br/exercise/5)
+3. [Caverna de Ordinskaya](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2016f2p1_caverna)
+    - [Casos de teste](test_set/2016f2p1_caverna.zip)
+4. [Fuga com helicóptero](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2016f2pj_fuga)
     - [Casos de teste](test_set/2016f2pj_fuga.zip)
 
 ### 2017
