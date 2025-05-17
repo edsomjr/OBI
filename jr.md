@@ -373,13 +373,13 @@
 
 #### [Fase 1](provas/ProvaOBI2024_f1pj.pdf)
 
-1. [Ogro](https://neps.academy/br/exercise/2710)
+1. [Ogro](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2024f1pj_ogro)
     - Soluções: [C](solutions/JR_2024_F1_Ogro.c), [C++](solutions/JR_2024_F1_Ogro.cpp), [Python](solutions/JR_2024_F1_Ogro.py)
     - [Casos de teste](test_set/2024f1pj_ogro.zip)
-2. [Concurso](https://neps.academy/br/exercise/2711)
+2. [Concurso](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2024f1pj_concurso)
     - Soluções: [C](solutions/JR_2024_F1_Concurso.c), [C++](solutions/JR_2024_F1_Concurso.cpp), [Python](solutions/JR_2024_F1_Concurso.py)
     - [Casos de teste](test_set/2024f1pj_concurso.zip)
-3. [Bactérias](https://neps.academy/br/exercise/2712)
+3. [Bactérias](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2024f1pj_bacterias)
     - Soluções: [C](solutions/JR_2024_F1_Bacterias.c), [C++](solutions/JR_2024_F1_Bacterias.cpp), [Python](solutions/JR_2024_F1_Bacterias.py)
     - [Casos de teste](test_set/2024f1pj_bacterias.zip)
 
