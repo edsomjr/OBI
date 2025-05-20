@@ -68,6 +68,7 @@
 - [Campeonato](https://neps.academy/br/exercise/514)
     - [Casos de teste](test_set/2012f1pj_campeonato.zip)
 - [Busca na Internet](https://neps.academy/br/exercise/515)
+    - [Solução](https://github.com/edsomjr/OBI/wiki/OBI-2012:-Fase-1,-N%C3%ADvel-J%C3%BAnior#busca-na-internet)
     - [Casos de teste](test_set/2012f1pj_busca.zip)
 - [Desafio do Maior Número](https://neps.academy/br/exercise/323)
     - [Casos de teste](test_set/2012f1pj_maior.zip)
@@ -385,12 +386,12 @@
 
 #### [Fase 2](provas/ProvaOBI2024_f2pj.pdf)
 
-1. [Avenida](https://neps.academy/br/exercise/2791)
+1. [Avenida](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2024f2pj_avenida)
     - [Casos de teste](test_set/2024f2pj_avenida.zip)
-2. [Alfabeto Alienígena](https://neps.academy/br/exercise/2792)
+2. [Alfabeto Alienígena](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2024f2pj_alfabeto)
     - Soluções: [C](solutions/JR_2024_F2_Alfabeto.c), [C++](solutions/JR_2024_F2_Alfabeto.cpp), [Python](solutions/JR_2024_F2_Alfabeto.py)
     - [Casos de teste](test_set/2024f2pj_alfabeto.zip)
-3. [Atletismo](https://neps.academy/br/exercise/2793)
+3. [Atletismo](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2024f2pj_atletismo)
     - [Casos de teste](test_set/2024f2pj_atletismo.zip)
 
 #### [Fase 3](provas/ProvaOBI2024_f3pj.pdf)
