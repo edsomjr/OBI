@@ -386,7 +386,7 @@
 
 #### [Fase 2](provas/ProvaOBI2024_f2ps.pdf)
 
-1. [Cubo Preto](https://neps.academy/br/exercise/2797)
+1. [Cubo Preto](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2024f2p2_cubo)
     - Soluções: [C](solutions/NS_2024_F2_Cubo.c), [C++](solutions/NS_2024_F2_Cubo.cpp), [Python](solutions/NS_2024_F2_Cubo.py)
     - [Casos de teste](test_set/2024f2p2_cubo.zip)
 2. [Alfabeto Alienígena](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2024f2pj_alfabeto)
