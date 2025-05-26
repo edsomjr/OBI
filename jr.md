@@ -396,11 +396,11 @@
 
 #### [Fase 3](provas/ProvaOBI2024_f3pj.pdf)
 
-1. [Cadeado](https://neps.academy/br/exercise/2888)
+1. [Cadeado](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2024f3pj_cadeado)
     - [Casos de teste](test_set/2024f3pj_cadeado.zip)
-2. [Amigos](https://neps.academy/br/exercise/2922)
+2. [Amigos](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2024f3pj_amigos)
     - [Casos de teste](test_set/2024f3pj_amigos.zip)
-3. [Entrevistas de emprego](https://neps.academy/br/exercise/2924)
+3. [Entrevistas de emprego](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2024f3pj_entrevistas)
     - [Casos de teste](test_set/2024f3pj_entrevistas.zip)
-4. [Hotel Nlogônia](https://neps.academy/br/exercise/2925)
+4. [Hotel Nlogônia](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2024f3pj_hotel)
     - [Casos de teste](test_set/2024f3pj_hotel.zip)
