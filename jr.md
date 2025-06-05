@@ -65,12 +65,14 @@
 
 #### [Fase 1](provas/OBI2012_f1pj.pdf)
 
-- [Campeonato](https://neps.academy/br/exercise/514)
+- [Campeonato](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2012f1pj_campeonato)
+    - [Solução](https://github.com/edsomjr/OBI/wiki/OBI-2012:-Fase-1-%E2%80%90-N%C3%ADvel-J%C3%BAnior#campeonato)
     - [Casos de teste](test_set/2012f1pj_campeonato.zip)
-- [Busca na Internet](https://neps.academy/br/exercise/515)
-    - [Solução](https://github.com/edsomjr/OBI/wiki/OBI-2012:-Fase-1,-N%C3%ADvel-J%C3%BAnior#busca-na-internet)
+- [Busca na Internet](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2012f1pj_busca)
+    - [Solução](https://github.com/edsomjr/OBI/wiki/OBI-2012:-Fase-1---N%C3%ADvel-J%C3%BAnior#busca-na-internet)
     - [Casos de teste](test_set/2012f1pj_busca.zip)
-- [Desafio do Maior Número](https://neps.academy/br/exercise/323)
+- [Desafio do Maior Número](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2012f1pj_maior)
+    - [Solução](https://github.com/edsomjr/OBI/wiki/OBI-2012:-Fase-1-%E2%80%90-N%C3%ADvel-J%C3%BAnior#desafio-do-maior-n%C3%BAmero)
     - [Casos de teste](test_set/2012f1pj_maior.zip)
 
 #### Fase 2
@@ -83,11 +85,14 @@
 
 #### [Fase 1](provas/ProvaOBI2013_f1pj.pdf)
 
-1. [Saldo do Vovô](https://neps.academy/br/exercise/332)
+1. [Saldo do Vovô](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2013f1pj_saldo)
+    - [_Upsolving_](https://www.youtube.com/watch?v=U-AYa9nHMQ4)
     - [Casos de teste](test_set/2013f1pj_saldo.zip)
-2. [Tomadas](https://neps.academy/br/exercise/219)
+2. [Tomadas](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2013f1pj_tomadas)
+    - [_Upsolving_](https://youtu.be/YCiEnupyElo)
     - [Casos de teste](test_set/2013f1pj_tomadas.zip)
-3. [Capital](https://neps.academy/br/exercise/499)
+3. [Capital](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2013f1pj_capital)
+    - [_Upsolving_](https://youtu.be/rGD7scKQUJs)
     - [Casos de teste](test_set/2013f1pj_capital.zip)
 
 #### Fase 2
