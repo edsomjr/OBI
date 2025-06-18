@@ -413,3 +413,10 @@
 ### 2025
 
 #### [Fase 1](provas/ProvaOBI2025_f1pj.pdf)
+
+1. [Pizzaria](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2025f1pj_pizzaria)
+    - [Casos de teste](test_set/2025f1pj_pizzaria.zip)
+2. [Dieta](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2025f1pj_dieta)
+    - [Casos de teste](test_set/2025f1pj_dieta.zip)
+3. [Café com Leite](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2025f1pj_leite)
+    - [Casos de teste](test_set/2025f1pj_leite.zip)

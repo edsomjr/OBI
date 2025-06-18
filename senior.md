@@ -415,3 +415,11 @@
 
 #### [Fase 1](provas/ProvaOBI2025_f1ps.pdf)
 
+1. [Festa Junina](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2025f1p2_festa)
+    - [Casos de teste](test_set/2025f1p2_festa.zip)
+2. [Dieta](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2025f1pj_dieta)
+    - [Casos de teste](test_set/2025f1pj_dieta.zip)
+3. [Cafeteria](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2025f1p2_cafeteria)
+    - [Casos de teste](test_set/2025f1p2_cafeteria.zip)
+4. [Gráfico de Barras](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2025f1p2_barras)
+    - [Casos de teste](test_set/2025f1p2_barras.zip)
