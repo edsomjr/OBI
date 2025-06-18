@@ -409,3 +409,7 @@
     - [Casos de teste](test_set/2024f3pj_entrevistas.zip)
 4. [Hotel Nlogônia](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2024f3pj_hotel)
     - [Casos de teste](test_set/2024f3pj_hotel.zip)
+
+### 2025
+
+#### [Fase 1](provas/ProvaOBI2025_f1pj.pdf)
