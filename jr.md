@@ -415,6 +415,7 @@
 #### [Fase 1](provas/ProvaOBI2025_f1pj.pdf)
 
 1. [Pizzaria](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2025f1pj_pizzaria)
+    - [Solução](https://github.com/edsomjr/OBI/wiki/OBI-2012:-Fase-2-%E2%80%90-N%C3%ADvel-J%C3%BAnior#pizzaria)
     - [Casos de teste](test_set/2025f1pj_pizzaria.zip)
 2. [Dieta](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2025f1pj_dieta)
     - [Casos de teste](test_set/2025f1pj_dieta.zip)
