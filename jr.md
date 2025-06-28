@@ -75,7 +75,7 @@
     - [Solução](https://github.com/edsomjr/OBI/wiki/OBI-2012:-Fase-1-%E2%80%90-N%C3%ADvel-J%C3%BAnior#desafio-do-maior-n%C3%BAmero)
     - [Casos de teste](test_set/2012f1pj_maior.zip)
 
-#### Fase 2
+#### [Fase 2](provas/OBI2012_f2pj.pdf)
 
 - Receita de Bolo: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2012/f2/bolo/)
 - Chocolate: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2012/f2/chocolate/)
