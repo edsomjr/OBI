@@ -77,9 +77,12 @@
 
 #### [Fase 2](provas/OBI2012_f2pj.pdf)
 
-- Receita de Bolo: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2012/f2/bolo/)
-- Chocolate: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2012/f2/chocolate/)
-- Tira-teima: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2012/f2/tenis/)
+1. [Chocolate](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2012f2pj_chocolate)
+    - [Casos de teste](test_set/2012f2pj_chocolate.zip)
+2. [Tira-teima](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2012f2pj_tenis)
+    - [Casos de teste](test_set/2012f2pj_tenis.zip)
+3. [Receita de Bolo](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2012f2pj_bolo)
+    - [Casos de teste](test_set/2012f2pj_bolo.zip)
 
 ### 2013
 
