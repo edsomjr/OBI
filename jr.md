@@ -425,4 +425,5 @@
     - [Casos de teste](test_set/2025f1pj_leite.zip)
 3. [Dieta](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2025f1pj_dieta)
     - [Solução](https://github.com/edsomjr/OBI/wiki/OBI-2025:-Fase-1-%E2%80%90-N%C3%ADvel-J%C3%BAnior#dieta)
+
     - [Casos de teste](test_set/2025f1pj_dieta.zip)

@@ -422,6 +422,8 @@
     - [Solução](https://github.com/edsomjr/OBI/wiki/OBI-2025:-Fase-1-%E2%80%90-N%C3%ADvel-S%C3%AAnior#festa-junina)
     - [Casos de teste](test_set/2025f1p2_festa.zip)
 3. [Fila](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2025f1p1_fila)
+    - [Solução](https://github.com/edsomjr/OBI/wiki/OBI-2025:-Fase-1-%E2%80%90-N%C3%ADvel-S%C3%AAnior#fila)
     - [Casos de teste](test_set/2025f1p1_fila.zip)
 4. [Gráfico de Barras](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2025f1p2_barras)
+    - [Solução](https://github.com/edsomjr/OBI/wiki/OBI-2025:-Fase-1-%E2%80%90-N%C3%ADvel-S%C3%AAnior#gr%C3%A1fico-de-barras)
     - [Casos de teste](test_set/2025f1p2_barras.zip)
