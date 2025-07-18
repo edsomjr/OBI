@@ -78,13 +78,13 @@
 #### [Fase 2](provas/OBI2012_f2pj.pdf)
 
 1. [Chocolate](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2012f2pj_chocolate)
-    - [Solução](https://github.com/edsomjr/OBI/wiki/OBI-2012:-Fase-2-%E2%80%90-N%C3%ADvel-J%C3%B9nior#chocolate)
+    - [Solução](https://github.com/edsomjr/OBI/wiki/OBI-2012:-Fase-2-%E2%80%90-N%C3%ADvel-J%C3%BAnior#chocolate)
     - [Casos de teste](test_set/2012f2pj_chocolate.zip)
 2. [Tira-teima](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2012f2pj_tenis)
-    - [Solução](https://github.com/edsomjr/OBI/wiki/OBI-2012:-Fase-2-%E2%80%90-N%C3%ADvel-J%C3%B9nior#tira-teima)
+    - [Solução](https://github.com/edsomjr/OBI/wiki/OBI-2012:-Fase-2-%E2%80%90-N%C3%ADvel-J%C3%BAnior#tira-teima)
     - [Casos de teste](test_set/2012f2pj_tenis.zip)
 3. [Receita de Bolo](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2012f2pj_bolo)
-    - [Solução](https://github.com/edsomjr/OBI/wiki/OBI-2012:-Fase-2-%E2%80%90-N%C3%ADvel-J%C3%B9nior#receita-de-bolo)
+    - [Solução](https://github.com/edsomjr/OBI/wiki/OBI-2012:-Fase-2-%E2%80%90-N%C3%ADvel-J%C3%BAnior#receita-de-bolo)
     - [Casos de teste](test_set/2012f2pj_bolo.zip)
 
 ### 2013
