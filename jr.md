@@ -65,13 +65,13 @@
 
 #### [Fase 1](provas/OBI2012_f1pj.pdf)
 
-- [Campeonato](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2012f1pj_campeonato)
+1. [Campeonato](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2012f1pj_campeonato)
     - [Solução](https://github.com/edsomjr/OBI/wiki/OBI-2012:-Fase-1-%E2%80%90-N%C3%ADvel-J%C3%BAnior#campeonato)
     - [Casos de teste](test_set/2012f1pj_campeonato.zip)
-- [Busca na Internet](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2012f1pj_busca)
+2. [Busca na Internet](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2012f1pj_busca)
     - [Solução](https://github.com/edsomjr/OBI/wiki/OBI-2012:-Fase-1---N%C3%ADvel-J%C3%BAnior#busca-na-internet)
     - [Casos de teste](test_set/2012f1pj_busca.zip)
-- [Desafio do Maior Número](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2012f1pj_maior)
+3. [Desafio do Maior Número](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2012f1pj_maior)
     - [Solução](https://github.com/edsomjr/OBI/wiki/OBI-2012:-Fase-1-%E2%80%90-N%C3%ADvel-J%C3%BAnior#desafio-do-maior-n%C3%BAmero)
     - [Casos de teste](test_set/2012f1pj_maior.zip)
 
@@ -103,12 +103,12 @@
 
 #### [Fase 2](provas/ProvaOBI2013_f2pj.pdf)
 
-1. Soma de Frações: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2013/f2/fracoes/)
-    - [Casos de teste](test_set/2013f2pj_fracoes.zip)
-2. Plantação: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2013/f2/plantacao/)
-    - [Casos de teste](test_set/2013f2pj_plantacao.zip)
-3. Volume da TV: [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/2013/f2/volume/)
+1. [Volume da TV](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2013f2pj_volume)
     - [Casos de teste](test_set/2013f2pj_volume.zip)
+2. [Soma de Frações](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2013f2pj_fracoes)
+    - [Casos de teste](test_set/2013f2pj_fracoes.zip)
+3. [Plantação](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2013f2pj_plantacao)
+    - [Casos de teste](test_set/2013f2pj_plantacao.zip)
 
 ### 2014
 

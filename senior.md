@@ -400,7 +400,7 @@
 
 #### [Fase 3](provas/ProvaOBI2024_f3ps.pdf)
 
-1. [Brigadeiros](https://neps.academy/br/exercise/2927)
+1. [Brigadeiros](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2024f3p1_brigadeiros)
     - [Casos de teste](test_set/2024f3p2_brigadeiros.zip)
 2. [Construtora](https://neps.academy/br/exercise/2929)
     - [Casos de teste](test_set/2024f3p2_construtora.zip)
