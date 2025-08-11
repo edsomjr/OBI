@@ -1,7 +1,7 @@
 ## Volume da TV
 
 A solução do problema consiste em simular as ações de Bruno. Sendo $V$ o volume inicial da TV, Bruno ou aumenta ($a_i > 0$) ou diminui ($a_i < 0$) o volume da TV. Desse modo, a operação básica é o incremento
-do volume em $a_i$ unidades. Porém, dois cuidados devem ser tomados:
+do volume atual em $a_i$ unidades. Porém, dois cuidados devem ser tomados:
 
 1. o volume não pode exceder 100 unidades;
 2. o valor mínimo para o volume é igual a zero.
