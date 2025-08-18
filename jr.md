@@ -104,10 +104,13 @@
 #### [Fase 2](provas/ProvaOBI2013_f2pj.pdf)
 
 1. [Volume da TV](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2013f2pj_volume)
+    - [Solução](https://github.com/edsomjr/OBI/wiki/OBI-2013:-Fase-2#volume-da-tv)
     - [Casos de teste](test_set/2013f2pj_volume.zip)
 2. [Soma de Frações](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2013f2pj_fracoes)
+    - [Solução](https://github.com/edsomjr/OBI/wiki/OBI-2013:-Fase-2#soma-de-fra%C3%A7%C3%B5es)
     - [Casos de teste](test_set/2013f2pj_fracoes.zip)
 3. [Plantação](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2013f2pj_plantacao)
+    - [Solução](https://github.com/edsomjr/OBI/wiki/OBI-2013:-Fase-2#planta%C3%A7%C3%A3o)
     - [Casos de teste](test_set/2013f2pj_plantacao.zip)
 
 ### 2014
