@@ -427,3 +427,14 @@
 4. [Gráfico de Barras](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2025f1p2_barras)
     - [Solução](https://github.com/edsomjr/OBI/wiki/OBI-2025:-Fase-1-%E2%80%90-N%C3%ADvel-S%C3%AAnior#gr%C3%A1fico-de-barras)
     - [Casos de teste](test_set/2025f1p2_barras.zip)
+
+#### [Fase 2](provas/ProvaOBI2025_f2ps.pdf)
+
+1. [Arara!](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2025f2pj_arara)
+    - [Casos de teste](test_set/2025f2pj_arara.zip)
+2. [Mania de Ímpar](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2025f2pj_mania)
+    - [Casos de teste](test_set/2025f2p1_mania.zip)
+3. [Um Desafio Muito Distinto](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2025f2p2_distinto)
+    - [Casos de teste](test_set/2025f2p1_mania.zip)
+4. [Feira de Artesanato](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2025f2pj_feira)
+    - [Casos de teste](test_set/2025f2p1_feira.zip)
