@@ -1,6 +1,6 @@
 ## Modalidade Programação - Nível 2
 
-### [2023](provas/ProvaOBI2023_cfp1.pdf)
+### [2023](provas/ProvaOBI2023_cfp2.pdf)
 
 1. Estante de Livros
     - Soluções: [C](solutions/CF_N2_2023_F1_Estante_de_Livros.c), [C++](solutions/CF_N2_2023_F1_Estante_de_Livros.cpp), [Python](solutions/CF_N2_2023_F1_Estante_de_Livros.py)

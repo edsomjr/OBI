@@ -439,3 +439,11 @@
     - [Casos de teste](test_set/2025f2p1_mania.zip)
 4. [Feira de Artesanato](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2025f2pj_feira)
     - [Casos de teste](test_set/2025f2p1_feira.zip)
+
+#### [Fase 2](provas/ProvaOBI2025_f3ps.pdf)
+
+1. [Fotos de Relíquias]
+2. [Escadaria]
+3. [Hidrovias e Rodovias]
+4. [Harmonia Nasal]
+5. [Energia]
