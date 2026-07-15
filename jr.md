@@ -455,3 +455,5 @@
     - [Casos de teste](test_set/2026f1pm_receita.zip)
 2. [Elevador](https://moj.naquadah.com.br/new/treino/problem/?id=obi-problems.obi2026f1pm_elevador)
     - [Casos de teste](test_set/2026f1pm_elevador.zip)
+2. [Restaurante](https://moj.naquadah.com.br/new/treino/problem/?id=obi-problems.obi2026f1pj_restaurante)
+    - [Casos de teste](test_set/2026f1pj_restaurante.zip)
