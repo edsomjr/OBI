@@ -446,3 +446,12 @@
     - [Casos de teste](test_set/2025f2pj_placar.zip)
 2. [Feirinha de Artesanato](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2025f2pj_feirinha)
     - [Casos de teste](test_set/2025f2pj_feirinha.zip)
+
+### 2026
+
+#### [Fase 1](provas/ProvaOBI2026_f1pj.pdf)
+
+1. [Receita Revolucionária](https://moj.naquadah.com.br/new/treino/problem/?id=obi-problems.obi2026f1pm_receita)
+    - [Casos de teste](test_set/2026f1pm_receita.zip)
+2. [Elevador](https://moj.naquadah.com.br/new/treino/problem/?id=obi-problems.obi2026f1pm_elevador)
+    - [Casos de teste](test_set/2026f1pm_elevador.zip)

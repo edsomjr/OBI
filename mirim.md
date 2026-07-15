@@ -4,11 +4,11 @@
 
 #### [Fase 1](provas/ProvaOBI2026_f1pm.pdf)
 
-1. [Receita Revolucionária]()
+1. [Receita Revolucionária](https://moj.naquadah.com.br/new/treino/problem/?id=obi-problems.obi2026f1pm_receita)
     - [Casos de teste](test_set/2026f1pm_receita.zip)
-2. [Elevador]()
+2. [Elevador](https://moj.naquadah.com.br/new/treino/problem/?id=obi-problems.obi2026f1pm_elevador)
     - [Casos de teste](test_set/2026f1pm_elevador.zip)
-3. [Encontro de Amigas]()
+3. [Encontro de Amigas](https://moj.naquadah.com.br/new/treino/problem/?id=obi-problems.obi2026f1pm_encontro)
     - [Casos de teste](test_set/2026f1pm_encontro.zip)
 
 #### [Fase 2](provas/ProvaOBI2025_f2pj.pdf)
