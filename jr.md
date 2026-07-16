@@ -449,7 +449,7 @@
 
 ### 2026
 
-#### [Fase 1](provas/ProvaOBI2026_f1pj.pdf)
+#### [Fase 1A](provas/ProvaOBI2026_f1pj.pdf)
 
 1. [Receita Revolucionária](https://moj.naquadah.com.br/new/treino/problem/?id=obi-problems.obi2026f1pm_receita)
     - [Casos de teste](test_set/2026f1pm_receita.zip)
