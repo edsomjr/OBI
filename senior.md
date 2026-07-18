@@ -447,3 +447,17 @@
 3. [Hidrovias e Rodovias]
 4. [Harmonia Nasal]
 5. [Energia]
+
+
+### 2026
+
+#### [Fase 1A](provas/ProvaOBI2026_f1ps.pdf)
+
+1. [Elevador](https://moj.naquadah.com.br/new/treino/problem/?id=obi-problems.obi2026f1pm_elevador)
+    - [Casos de teste](test_set/2026f1pm_elevador.zip)
+2. [Restaurante](https://moj.naquadah.com.br/new/treino/problem/?id=obi-problems.obi2026f1pj_restaurante)
+    - [Casos de teste](test_set/2026f1pj_restaurante.zip)
+3. [Encontro de Amigas](https://moj.naquadah.com.br/new/treino/problem/?id=obi-problems.obi2026f1pm_encontro)
+    - [Casos de teste](test_set/2026f1pm_encontro.zip)
+4. [Torre de Números](https://moj.naquadah.com.br/new/treino/problem/?id=obi-problems.obi2026f1p2_torre)
+    - [Casos de teste](test_set/2026f1p1_torre.zip)
