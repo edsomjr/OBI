@@ -14,7 +14,7 @@
 
 #### [Fase 1B](provas/ProvaOBI2026_f1bpm.pdf)
 
-1. [Aula de Matemática]()
+1. [Aula de Matemática](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f1pm_aula)
     - [Casos de teste](test_set/2026f1pm_aula.zip)
 2. [Dedos]()
     - [Casos de teste](test_set/2026f1pm_dedos.zip)

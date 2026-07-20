@@ -457,3 +457,9 @@
     - [Casos de teste](test_set/2026f1pm_elevador.zip)
 3. [Restaurante](https://moj.naquadah.com.br/new/treino/problem/?id=obi-problems.obi2026f1pj_restaurante)
     - [Casos de teste](test_set/2026f1pj_restaurante.zip)
+
+#### [Fase 1B](provas/ProvaOBI2026_f1bpj.pdf)
+
+1. [Aula de Matemática](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f1pm_aula)
+    - [Casos de teste](test_set/2026f1pm_aula.zip)
+

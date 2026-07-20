@@ -3,10 +3,11 @@
 Links e soluções para os problemas das edições passadas da OBI. O [regulamento](https://olimpiada.ic.unicamp.br/info/regulamento/) prevê quatro níveis na Modalidade
 Programação:
 
-- [Nível Júnior](jr.md): alunos de qualquer ano do Ensino Fundamental.
+- [Nível Mirim](mirim.md): alunos que estejam cursando até o sétimo ano do Ensino Fundamental.
+- [Nível Júnior](jr.md): alunos do oitavo e do nono ano do Ensino Fundamental.
 - [Nível 1](n1.md): alunos do Ensino Fundamental e até o primeiro ano do Ensino Médio.
 - [Nível 2](n2.md): alunos do Ensino Fundamental e até o terceiro ano do Ensino Médio.
-- [Nível Sênior](senior.md): alunos do Ensino Fundamental e até o primeiro ano do Ensino Médio.
+- [Nível Sênior](senior.md): alunos do quarto ano do Ensino Médio ou do primeiro ano de um curso de Graduação.
 
 ## OBI Feminina
 
