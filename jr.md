@@ -462,4 +462,7 @@
 
 1. [Aula de Matemática](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f1pm_aula)
     - [Casos de teste](test_set/2026f1pm_aula.zip)
-
+2. [Dança de Quadrilha](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f1pm_quadrilha)
+    - [Casos de teste](test_set/2026f1pm_quadrilha.zip)
+2. [Fichas](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f1pj_fichas)
+    - [Casos de teste](test_set/2026f1pj_fichas.zip)
