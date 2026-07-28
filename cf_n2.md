@@ -28,3 +28,7 @@
     - [Casos de teste](test_set/2024cfp2_bombons.zip)
 5. Estradas em Nlogônia
     - [Casos de teste](test_set/2024cfp2_estradas.zip)
+
+### [2025](provas/ProvaOBI2025_cfp2.pdf)
+
+5. [Fila na Cantina](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025cfp2_fila)
