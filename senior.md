@@ -461,3 +461,14 @@
     - [Casos de teste](test_set/2026f1pm_encontro.zip)
 4. [Torre de Números](https://moj.naquadah.com.br/new/treino/problem/?id=obi-problems.obi2026f1p2_torre)
     - [Casos de teste](test_set/2026f1p1_torre.zip)
+
+#### [Fase 1B](provas/ProvaOBI2026_f1bps.pdf)
+
+1. [Dedos](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f1pm_dedos)
+    - [Casos de teste](test_set/2026f1pm_dedos.zip)
+2. [Fichas](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f1pj_fichas)
+    - [Casos de teste](test_set/2026f1pj_fichas.zip)
+3. [Transporte](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f1p1_transporte)
+    - [Casos de teste](test_set/2026f1p1_transporte.zip)
+4. [Resumo de Números](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f1p2_resumo)
+    - [Casos de teste](test_set/2026f1p1_resumo.zip)
