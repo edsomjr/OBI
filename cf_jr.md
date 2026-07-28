@@ -25,3 +25,9 @@
     - [Casos de teste](test_set/2024cfpj_aventura.zip)
 4. Fábrica de tesouras
     - [Casos de teste](test_set/2024cfpj_tesoura.zip)
+
+
+### [2025](provas/ProvaOBI2025_cfp2.pdf)
+
+1. [Unicórnio](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025cfpj_unicornio)
+    - [Casos de teste](2025cfpj_unicornio.zip)
