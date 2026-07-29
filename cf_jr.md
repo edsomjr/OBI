@@ -31,3 +31,5 @@
 
 1. [Unicórnio](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025cfpj_unicornio)
     - [Casos de teste](2025cfpj_unicornio.zip)
+2. [Copa do Mundo](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025cfpj_copa)
+    - [Casos de teste](2025cfpj_copa.zip)
