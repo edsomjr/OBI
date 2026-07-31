@@ -35,3 +35,5 @@
     - [Casos de teste](2025cfpj_copa.zip)
 3. [Revezamento](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025cfpj_revezamento)
     - [Casos de teste](2025cfpj_revezamento.zip)
+4. [Campeonato de Xadrez](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025cfpj_xadrez)
+    - [Casos de teste](2025cfpj_xadrez.zip)
