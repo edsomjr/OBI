@@ -26,3 +26,13 @@
     - [Casos de teste](test_set/2024cfp1_mistura.zip)
 4. Fábrica de Tesouras
     - [Casos de teste](test_set/2024cfpj_tesoura.zip)
+
+
+### [2025](provas/ProvaOBI2025_cfp2.pdf)
+
+1. [Unicórnio](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025cfpj_unicornio)
+    - [Casos de teste](2025cfpj_unicornio.zip)
+2. [Copa do Mundo](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025cfpj_copa)
+    - [Casos de teste](2025cfpj_copa.zip)
+3. [Campeonato de Xadrez](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025cfpj_xadrez)
+    - [Casos de teste](2025cfpj_xadrez.zip)

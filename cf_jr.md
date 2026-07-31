@@ -15,6 +15,7 @@
     - Soluções: [C](solutions/CF_JR_2023_F1_Casquinha.c), [C++](solutions/CF_JR_2023_F1_Casquinha.cpp), [Python](solutions/CF_JR_2023_F1_Casquinha.py)
     - [Casos de teste](test_set/2023cfpj_casquinha.zip)
 
+
 ### [2024](provas/ProvaOBI2024_cfpj.pdf)
 
 1. Altura da árvore
