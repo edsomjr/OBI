@@ -29,8 +29,11 @@
 5. Estradas em Nlogônia
     - [Casos de teste](test_set/2024cfp2_estradas.zip)
 
+
 ### [2025](provas/ProvaOBI2025_cfp2.pdf)
 
+1. [Copa do Mundo](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025cfpj_copa)
+    - [Casos de teste](2025cfpj_copa.zip)
 5. [Fila na Cantina](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025cfp2_fila)
     - [Casos de teste - parte 1](2025cfp2_fila_part1.zip)
     - [Casos de teste - parte 2](2025cfp2_fila_part2.zip)
