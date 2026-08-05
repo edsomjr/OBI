@@ -36,7 +36,5 @@
     - [Casos de teste](2025cfpj_copa.zip)
 3. [Campeonato de Xadrez](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025cfpj_xadrez)
     - [Casos de teste](2025cfpj_xadrez.zip)
-3. [Campeonato de Xadrez](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025cfpj_xadrez)
-    - [Casos de teste](2025cfpj_xadrez.zip)
 4. [Castelo de Blocos](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025cfp1_castelo)
     - [Casos de teste](2025cfp1_castelo.zip)
