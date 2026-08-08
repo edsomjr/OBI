@@ -18,7 +18,7 @@
 
 ### [2024](provas/ProvaOBI2024_cfpj.pdf)
 
-1. Altura da árvore
+1. [Altura da árvore](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2024cfpj_altura)
     - [Casos de teste](test_set/2024cfpj_altura.zip)
 2. Vale-presente
     - [Casos de teste](test_set/2024cfpj_vale.zip)
