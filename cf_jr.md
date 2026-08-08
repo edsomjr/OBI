@@ -20,7 +20,7 @@
 
 1. [Altura da árvore](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2024cfpj_altura)
     - [Casos de teste](test_set/2024cfpj_altura.zip)
-2. Vale-presente
+2. [Vale-presente](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2024cfpj_vale)
     - [Casos de teste](test_set/2024cfpj_vale.zip)
 3. Aventura na floresta mágica
     - [Casos de teste](test_set/2024cfpj_aventura.zip)
