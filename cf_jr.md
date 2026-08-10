@@ -24,7 +24,7 @@
     - [Casos de teste](test_set/2024cfpj_vale.zip)
 3. [Aventura na floresta mágica](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2024cfpj_aventura)
     - [Casos de teste](test_set/2024cfpj_aventura.zip)
-4. Fábrica de tesouras
+4. [Fábrica de tesouras](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2024cfpj_tesoura)
     - [Casos de teste](test_set/2024cfpj_tesoura.zip)
 
 
