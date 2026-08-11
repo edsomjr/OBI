@@ -16,7 +16,7 @@
 
 ### [2024](provas/ProvaOBI2024_cfp1.pdf)
 
-1. Bibi e a árvore
+1. [Bibi e a árvore](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2024cfp1_bibi)
     - Soluções: [C](solutions/CF_N1_2024_F1_Bibi.c), [C++](solutions/CF_N1_2024_F1_Bibi.cpp), [Python](solutions/CF_N1_2024_F1_Bibi.py)
     - [Casos de teste](test_set/2024cfp1_bibi.zip)
 2. Fefe e o jogo dos monstrinhos
