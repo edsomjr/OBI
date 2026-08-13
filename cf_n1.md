@@ -21,7 +21,7 @@
     - [Casos de teste](test_set/2024cfp1_bibi.zip)
 2. [Fefe e o jogo dos monstrinhos](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2024cfp1_monstrinhos)
     - [Casos de teste](test_set/2024cfp1_monstrinhos.zip)
-3. Mistura de Poções
+3. [Mistura de Poções](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2024cfp1_mistura)
     - Soluções: [C](solutions/CF_N1_2024_F1_Mistura.c), [C++](solutions/CF_N1_2024_F1_Mistura.cpp), [Python](solutions/CF_N1_2024_F1_Mistura.py)
     - [Casos de teste](test_set/2024cfp1_mistura.zip)
 4. [Fábrica de tesouras](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2024cfpj_tesoura)
