@@ -24,7 +24,7 @@
 3. [Tabuleiro](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2024cfp2_tabuleiro)
     - Soluções: [C](solutions/CF_N2_2024_F1_Tabuleiro.c), [C++](solutions/CF_N2_2024_F1_Tabuleiro.cpp), [Python](solutions/CF_N2_2024_F1_Tabuleiro.py)
     - [Casos de teste](test_set/2024cfp2_tabuleiro.zip)
-4. Christina e os bombons
+4. [Christina e os bombons](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2024cfp2_bombons)
     - [Casos de teste](test_set/2024cfp2_bombons.zip)
 5. Estradas em Nlogônia
     - [Casos de teste](test_set/2024cfp2_estradas.zip)
