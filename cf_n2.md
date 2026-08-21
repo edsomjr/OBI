@@ -26,7 +26,7 @@
     - [Casos de teste](test_set/2024cfp2_tabuleiro.zip)
 4. [Christina e os bombons](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2024cfp2_bombons)
     - [Casos de teste](test_set/2024cfp2_bombons.zip)
-5. Estradas em Nlogônia
+5. [Estradas em Nlogônia](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2024cfp2_estradas)
     - [Casos de teste](test_set/2024cfp2_estradas.zip)
 
 
