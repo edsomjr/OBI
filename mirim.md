@@ -20,3 +20,9 @@
     - [Casos de teste](test_set/2026f1pm_dedos.zip)
 3. [Dança de Quadrilha](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f1pm_quadrilha)
     - [Casos de teste](test_set/2026f1pm_quadrilha.zip)
+
+
+#### [Fase 2](provas/ProvaOBI2026_f2pm.pdf)
+
+1. [Festas de Aniversário](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f2pm_festas)
+    - [Casos de teste](test_set/2026f2pm_festas.zip)
