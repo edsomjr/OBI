@@ -26,3 +26,5 @@
 
 1. [Festas de Aniversário](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f2pm_festas)
     - [Casos de teste](test_set/2026f2pm_festas.zip)
+2. [Adivinha o Número](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f2pm_adivinha)
+    - [Casos de teste](test_set/2026f2pm_adivinha.zip)
