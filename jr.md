@@ -466,3 +466,12 @@
     - [Casos de teste](test_set/2026f1pm_quadrilha.zip)
 3. [Fichas](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f1pj_fichas)
     - [Casos de teste](test_set/2026f1pj_fichas.zip)
+
+#### [Fase 2](provas/ProvaOBI2026_f2pj.pdf)
+
+1. [Festas de Aniversário](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f2pm_festas)
+    - [Casos de teste](test_set/2026f2pm_festas.zip)
+2. [Passes](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f2pm_passes)
+    - [Casos de teste](test_set/2026f2pm_passes.zip)
+3. [Cinema à Distância](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f2pj_cinema)
+    - [Casos de teste](test_set/2026f2pj_cinema.zip)
