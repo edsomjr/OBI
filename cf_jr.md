@@ -3,10 +3,9 @@
 ### [2023](provas/ProvaOBI2023_cfpj.pdf)
 
 1. [Conversa dos Pinguins](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2023cfpj_pinguins)
-    - [Casos de teste](test_set/2023cfpj_pinguins.zip)
     - Soluções: [C](solutions/CF_JR_2023_F1_Conversa_dos_Pinguins.c), [C++](solutions/CF_JR_2023_F1_Conversa_dos_Pinguins.cpp), [Python](solutions/CF_JR_2023_F1_Conversa_dos_Pinguins.py)
     - [Casos de teste](test_set/2023cfpj_pinguins.zip)
-2. Estante de Livros
+2. [Estante de Livros](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2023cfpj_estante)
     - Soluções: [C](solutions/CF_JR_2023_F1_Estante_de_Livros.c), [C++](solutions/CF_JR_2023_F1_Estante_de_Livros.cpp), [Python](solutions/CF_JR_2023_F1_Estante_de_Livros.py)
     - [Casos de teste](test_set/2023cfpj_estante.zip)
 3. Suco Radioativo
