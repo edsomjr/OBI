@@ -447,6 +447,13 @@
 2. [Feirinha de Artesanato](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2025f2pj_feirinha)
     - [Casos de teste](test_set/2025f2pj_feirinha.zip)
 
+
+#### [Fase 3](provas/ProvaOBI2025_f3pj.pdf)
+
+1. [Sacolas](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2023f3pj_sacolas)
+    - [Casos de teste](test_set/2025f3pj_sacolas.zip)
+
+
 ### 2026
 
 #### [Fase 1A](provas/ProvaOBI2026_f1pj.pdf)
