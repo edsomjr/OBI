@@ -47,5 +47,5 @@
 
 ### [2026](provas/ProvaOBI2026_cfp2.pdf)
 
-1. [Viagem em Família](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026cfpj_viagem)
+1. [Viagem em Família](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026cfpm_viagem)
     - [Casos de teste](test_set/2026cfpm_viagem.zip)
