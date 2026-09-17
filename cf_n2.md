@@ -43,3 +43,9 @@
 5. [Fila na Cantina](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025cfp2_fila)
     - [Casos de teste - parte 1](2025cfp2_fila_part1.zip)
     - [Casos de teste - parte 2](2025cfp2_fila_part2.zip)
+
+
+### [2026](provas/ProvaOBI2026_cfp2.pdf)
+
+1. [Viagem em Família](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026cfpj_viagem)
+    - [Casos de teste](test_set/2026cfpm_viagem.zip)

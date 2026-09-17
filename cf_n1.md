@@ -28,7 +28,7 @@
     - [Casos de teste](test_set/2024cfpj_tesoura.zip)
 
 
-### [2025](provas/ProvaOBI2025_cfp2.pdf)
+### [2025](provas/ProvaOBI2025_cfp1.pdf)
 
 1. [Unicórnio](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025cfpj_unicornio)
     - [Casos de teste](2025cfpj_unicornio.zip)
@@ -38,3 +38,8 @@
     - [Casos de teste](2025cfpj_xadrez.zip)
 4. [Castelo de Blocos](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025cfp1_castelo)
     - [Casos de teste](2025cfp1_castelo.zip)
+
+### [2026](provas/ProvaOBI2026_cfp1.pdf)
+
+1. [Viagem em Família](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026cfpj_viagem)
+    - [Casos de teste](test_set/2026cfpm_viagem.zip)
