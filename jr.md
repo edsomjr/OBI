@@ -450,8 +450,10 @@
 
 #### [Fase 3](provas/ProvaOBI2025_f3pj.pdf)
 
-1. [Sacolas](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2023f3pj_sacolas)
+1. [Sacolas](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025f3pj_sacolas)
     - [Casos de teste](test_set/2025f3pj_sacolas.zip)
+2. [Fotos de Relíquias](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025f3pj_fotos)
+    - [Casos de teste](test_set/2025f3pj_fotos.zip)
 
 
 ### 2026
