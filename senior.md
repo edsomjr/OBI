@@ -444,7 +444,8 @@
 
 1. [Fotos de Relíquias](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025f3pj_fotos)
     - [Casos de teste](test_set/2025f3pj_fotos.zip)
-2. [Escadaria]
+2. [Escadaria](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025f3p2_escadaria)
+    - [Casos de teste](test_set/2025f3p2_escadaria.zip)
 3. [Hidrovias e Rodovias]
 4. [Harmonia Nasal]
 5. [Energia]
