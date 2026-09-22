@@ -454,6 +454,8 @@
     - [Casos de teste](test_set/2025f3pj_sacolas.zip)
 2. [Fotos de Relíquias](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025f3pj_fotos)
     - [Casos de teste](test_set/2025f3pj_fotos.zip)
+3. [Fitas Verde-amarelas](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025f3pj_fitas)
+    - [Casos de teste](test_set/2025f3pj_fitas.zip)
 
 
 ### 2026
