@@ -456,6 +456,8 @@
     - [Casos de teste](test_set/2025f3pj_fotos.zip)
 3. [Fitas Verde-amarelas](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025f3pj_fitas)
     - [Casos de teste](test_set/2025f3pj_fitas.zip)
+4. [Empregos de Júlio](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2025f3pj_empregos)
+    - [Casos de teste](test_set/2025f3pj_empregos.zip)
 
 
 ### 2026
