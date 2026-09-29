@@ -43,5 +43,7 @@
 
 1. [Estacionamento](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026cfpm_estacionamento)
     - [Casos de teste](test_set/2026cfpm_estacionamento.zip)
-3. [Cabo de Guerra](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026cfpm_cabo)
+2. [Cabo de Guerra](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026cfpm_cabo)
     - [Casos de teste](test_set/2026cfpm_cabo.zip)
+3. [Bolinha Quicante](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026cfpm_bolinha)
+    - [Casos de teste](test_set/2026cfpm_bolinha.zip)
