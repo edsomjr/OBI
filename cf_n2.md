@@ -51,3 +51,5 @@
     - [Casos de teste](test_set/2026cfpm_viagem.zip)
 2. [Medo de Voar](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026cfpj_medo)
     - [Casos de teste](test_set/2026cfpj_medo.zip)
+3. [Estoque de Moedas](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026cfp1_estoque)
+    - [Casos de teste](test_set/2026cfp1_estoque.zip)
