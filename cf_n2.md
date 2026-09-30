@@ -49,3 +49,5 @@
 
 1. [Viagem em Família](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026cfpm_viagem)
     - [Casos de teste](test_set/2026cfpm_viagem.zip)
+2. [Medo de Voar](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026cfpj_medo)
+    - [Casos de teste](test_set/2026cfpj_medo.zip)
