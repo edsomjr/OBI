@@ -53,3 +53,5 @@
     - [Casos de teste](test_set/2026cfpj_medo.zip)
 3. [Estoque de Moedas](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026cfp1_estoque)
     - [Casos de teste](test_set/2026cfp1_estoque.zip)
+3. [Amizade](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026cfp2_amizade)
+    - [Casos de teste](test_set/2026cfp2_amizade.zip)
