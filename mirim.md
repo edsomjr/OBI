@@ -30,3 +30,8 @@
     - [Casos de teste](test_set/2026f2pm_adivinha.zip)
 3. [Passes](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f2pm_passes)
     - [Casos de teste](test_set/2026f2pm_passes.zip)
+
+#### [Fase 3](provas/ProvaOBI2026_f3pm.pdf)
+
+1. [Cupom de Desconto](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f3pm_cupom)
+    - [Casos de teste](test_set/2026f3pm_cupom.zip)
