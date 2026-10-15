@@ -488,3 +488,10 @@
     - [Casos de teste](test_set/2026f2pm_passes.zip)
 3. [Cinema à Distância](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f2pj_cinema)
     - [Casos de teste](test_set/2026f2pj_cinema.zip)
+
+#### [Fase 3](provas/ProvaOBI2026_f3pj.pdf)
+
+1. [Cozinheiro Real](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f3pm_cozinheiro)
+    - [Casos de teste](test_set/2026f3pm_cozinheiro.zip)
+2. [Rebobinar](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f3pm_rebobinar)
+    - [Casos de teste](test_set/2026f3pm_rebobinar.zip)

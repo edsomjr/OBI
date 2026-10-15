@@ -35,3 +35,7 @@
 
 1. [Cupom de Desconto](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f3pm_cupom)
     - [Casos de teste](test_set/2026f3pm_cupom.zip)
+2. [Cozinheiro Real](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f3pm_cozinheiro)
+    - [Casos de teste](test_set/2026f3pm_cozinheiro.zip)
+3. [Rebobinar](https://moj.naquadah.com.br/treino/problema/?id=obi-problems%23obi2026f3pm_rebobinar)
+    - [Casos de teste](test_set/2026f3pm_rebobinar.zip)
